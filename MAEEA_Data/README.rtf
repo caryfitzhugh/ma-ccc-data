@@ -1,0 +1,110 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww25300\viewh19400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs28 \cf0 README.txt\
+\
+\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\
+>>> Prepared by: \
+Ambarish Karmalkar (akarmalkar@geo.umass.edu) and Ray Bradley\
+Northeast Climate Science Center, UMass Amherst\
+\
+\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\
+>>> Climate Data: \
+1/6 degree LOCA Downscaled CMIP5 Daily, 14 climate models, 2 RCPs (RCP4.5, RCP8.5)\
+{\field{\*\fldinst{HYPERLINK "http://loca.ucsd.edu/"}}{\fldrslt http://loca.ucsd.edu/}}\
+\
+Reference:\
+\pard\pardeftab720
+\cf0 \expnd0\expndtw0\kerning0
+- Pierce, D. W., D. R. Cayan, and B. L. Thrasher, Statistical Downscaling Using Localized Constructed Analogs (LOCA), Journal of Hydrometeorology, 15(6), 2558-2585, 2014.\kerning1\expnd0\expndtw0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+\cf0 \
+\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\
+>>> Naming convention and data:\
+\
+CLIMATE MODEL DATA:\
+\'97>  Zipped Files: <var>.ts5yr.zip\
+ts - time series data from 1970-2097\
+5yr - every value indicates a 5-year mean (e.g., 1970 value corresponds to 1968-1972 mean, 2097 value corresponds to 2095-2099 mean)\
+\
+\'97>  Filenames after unzipping: <var>.<season>.<statistic>.ts5yr.csv\
+Each file contains data for the state (\'91MA\'92) and for 14 counties. \
+\
+\'97> Climate projections for specific decades are all saved in \'91MA_Climate_Projections_Decades.html\'92 (you might need to download it to your computer first before opening.)\
+\
+OBSERVED DATA:\
+\'97> Zipped Files: <var>.obs.zip\
+\'97> Filenames after unzipping: <var>.<season>.obs.ts1yr.csv - data for every year from 1951-2005\
+                                                  <var>.<season>.obs.ts5yr.csv - 5-year means (e.g. first year 1953 = mean of 1951-1955, last year 2003 = mean of 2001-2005)\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+\cf0 Each file contains data for the state (\'91MA\'92) and for 14 counties. \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+\cf0 \
+\
+Variables <var> (Units)\
+\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97-\
+TG - Average Temperature (Fahrenheit)\
+TX - Maximum Temperature (Fahrenheit)\
+TN - Minimum Temperature (Fahrenheit)\
+\
+TX90F   - Days with Maximum Temperature above 90F (Days)\
+TX95F   - Days with Maximum Temperature above 95F (Days)\
+TX100F - Days with Maximum Temperature above 100F (Days)\
+TN0F     - Days with Minimum Temperature below 0F (Days)\
+TN32F   - Days with Minimum Temperature below 32F (Days)\
+\
+PRCPTOT - Total Precipitation (Inches)\
+R1in - Days with Precipitation > 1\'94 (Days)\
+R2in - Days with Precipitation > 2\'94 (Days)\
+R4in - Days with Precipitation > 4\'94 (Days)\
+CDD - Consecutive Dry Days (Days)\
+\
+HD - Heating Degree-Day Accumulation (Degree-Day Fahrenheit)\
+CD - Cooling Degree-Day Accumulation (Degree-Day Fahrenheit)\
+GD - Growing Degree-Day Accumulation (Degree-Day Fahrenheit)\
+\
+Seasons <season>\
+\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97-\
+Annual, Winter (DJF), Spring (MAM), Summer (JJA), Fall (SON)\
+\
+Statistic <statistic>\
+\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97-\
+MIN (minimum), MED (median), MAX (maximum)\
+These indicate minimum, median, and maximum values as shown here:\
+{\field{\*\fldinst{HYPERLINK "https://www.nyclimatescience.org/dataproduct/?c=Temp/state/avgt/ANN/MA/"}}{\fldrslt https://www.nyclimatescience.org/dataproduct/?c=Temp/state/avgt/ANN/MA/}}\
+\
+\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\
+>>> Delivery update:\
+\
+VAR			Time Series		Projections**\
+\
+TG			Aug 8, 2017		Aug 11, 2017\
+TX			Aug 8, 2017		Aug 11, 2017\
+TN			Aug 8, 2017		Aug 11, 2017\
+\
+TX90F		Aug 9, 2017		Aug 11, 2017\
+TX95F		Aug 9, 2017		Aug 11, 2017\
+TX100F		Aug 9, 2017 		Aug 11, 2017\
+TN0F 		Aug 9, 2017 		Aug 11, 2017\
+TN32F 		Aug 9, 2017 		Aug 11, 2017\
+\
+PRCPTOT		Aug 9, 2017		Aug 11, 2017\
+R1in			Aug 11, 2017		Aug 11, 2017\
+R2in			Aug 11, 2017		Aug 11, 2017\
+R4in			Aug 11, 2017		Aug 11, 2017\
+CDD 			Aug 11, 2017		Aug 11, 2017\
+\
+HD 			Aug 10, 2017		Aug 11, 2017\
+CD 			Aug 11, 2017		Aug 11, 2017\
+GD 			Aug 11, 2017		Aug 11, 2017\
+\
+\
+** \'91Projections\'92 data will include climate change projections for the state and the counties for 2030s, 2050s, 2070s, 2090s. \
+** See \'91MA_Climate_Projections_Decades.html\'92\
+\
+\
+\
+}
