@@ -1,263 +1,48 @@
 {
-   "1970": {
-     "state": {
-        
-           "Massachusetts": {
-       
+   "Massachusetts": {
+      "1970": {
+         "obs": {
+            "annual": {
+               "avg": 100  
+            },
+            "spring": {
+               "avg": 77  
             }
-     "min": {   
-     }
-     },
-     "county": {
-      "Essex County, MA": {
-      },
-      "Franklin County, MA": {
-      },
-      "Worcester County, MA": {
-      },
-      "Dukes County, MA": {
-      },
-      "Plymouth County, MA": {
-      "Hampshire County, MA": {
-      },
-      "Bristol County, MA": {
-      },
-      "Hampden County, MA": {
-      },
-      "Berkshire County, MA": {
-      },
-      "Middlesex County, MA": {
-      },
-      "Suffolk County, MA": {
-      },
-      "Barnstable County, MA": {
-      },
-      "Norfolk County, MA": {
-      },
-      "Nantucket County, MA": {
+            "fall": {
+               "avg": 66  
+            },
+            "winter": {
+               "avg": 33  
+            }
+         }
       }
-     },
-     "watershed": {
-     
-     },
-     "6km": {
-     
-     }
    },
-   "1975":{
-     "state": {
-       "ma": {
-       
-       }
-     },
-     "county": {
-       "worcester": {
-       
-       }
-     },
-     "watershed": {
-     
-     },
-     "6km": {
-     
-     }
+   "Essex County, MA": {
    },
-   "1980":{
-     "state": {
-       "ma": {
-       
-       }
-     },
-     "county": {
-       "worcester": {
-       
-       }
-     },
-     "watershed": {
-     
-     },
-     "6km": {
-     
-     }
+   "Franklin County, MA": {
    },
-   "1985":{
-     "state": {
-       "ma": {
-       
-       }
-     },
-     "county": {
-       "worcester": {
-       
-       }
-     },
-     "watershed": {
-     
-     },
-     "6km": {
-     
-     }
+   "Worcester County, MA": {
    },
-   "1990":{
-     "state": {
-       "ma": {
-       
-       }
-     },
-     "county": {
-       "worcester": {
-       
-       }
-     },
-     "watershed": {
-     
-     },
-     "6km": {
-     
-     }
+   "Dukes County, MA": {
    },
-   "1995":{
-     "state": {
-       "ma": {
-       
-       }
-     },
-     "county": {
-       "worcester": {
-       
-       }
-     },
-     "watershed": {
-     
-     },
-     "6km": {
-     
-     }
+   "Plymouth County, MA": {
+   "Hampshire County, MA": {
    },
-   "2000":{
-     "state": {
-       "ma": {
-       
-       }
-     },
-     "county": {
-       "worcester": {
-       
-       }
-     },
-     "watershed": {
-     
-     },
-     "6km": {
-     
-     }
+   "Bristol County, MA": {
    },
-   "2005":{
-     "state": {
-       "ma": {
-       
-       }
-     },
-     "county": {
-       "worcester": {
-       
-       }
-     },
-     "watershed": {
-     
-     },
-     "6km": {
-     
-     }
+   "Hampden County, MA": {
    },
-   "2010":{
-     "state": {
-       "ma": {
-       
-       }
-     },
-     "county": {
-       "worcester": {
-       
-       }
-     },
-     "watershed": {
-     
-     },
-     "6km": {
-     
-     }
+   "Berkshire County, MA": {
    },
-   "2015":{
-     "state": {
-       "ma": {
-       
-       }
-     },
-     "county": {
-       "worcester": {
-       
-       }
-     },
-     "watershed": {
-     
-     },
-     "6km": {
-     
-     }
+   "Middlesex County, MA": {
    },
-   "2020":{
-     "state": {
-       "ma": {
-       
-       }
-     },
-     "county": {
-       "worcester": {
-       
-       }
-     },
-     "watershed": {
-     
-     },
-     "6km": {
-     
-     }
+   "Suffolk County, MA": {
    },
-   "2025":{
-     "state": {
-       "ma": {
-       
-       }
-     },
-     "county": {
-       "worcester": {
-       
-       }
-     },
-     "watershed": {
-     
-     },
-     "6km": {
-     
-     }
+   "Barnstable County, MA": {
    },
-   "2030":{
-     "state": {
-       "ma": {
-       
-       }
-     },
-     "county": {
-       "worcester": {
-       
-       }
-     },
-     "watershed": {
-     
-     },
-     "6km": {
-     
-     }
+   "Norfolk County, MA": {
+   },
+   "Nantucket County, MA": {
    }
+   
 }
