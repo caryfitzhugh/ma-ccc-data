@@ -1,14 +1,41 @@
 {
    "1970": {
      "state": {
-       "ma": {
+        
+           "Massachusetts": {
        
-       }
+            }
+     "min": {   
+     }
      },
      "county": {
-       "worcester": {
-       
-       }
+      "Essex County, MA": {
+      },
+      "Franklin County, MA": {
+      },
+      "Worcester County, MA": {
+      },
+      "Dukes County, MA": {
+      },
+      "Plymouth County, MA": {
+      "Hampshire County, MA": {
+      },
+      "Bristol County, MA": {
+      },
+      "Hampden County, MA": {
+      },
+      "Berkshire County, MA": {
+      },
+      "Middlesex County, MA": {
+      },
+      "Suffolk County, MA": {
+      },
+      "Barnstable County, MA": {
+      },
+      "Norfolk County, MA": {
+      },
+      "Nantucket County, MA": {
+      }
      },
      "watershed": {
      
