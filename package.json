@@ -1,0 +1,13 @@
+{
+  "name": "ma-ccc-data",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "csv-load-sync": "^1.0.0",
+    "glob": "^7.1.2",
+    "lodash": "^4.17.4",
+    "object-path-set": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {}
+}
