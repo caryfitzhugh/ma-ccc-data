@@ -94,9 +94,11 @@ const reduce_file = (memo, metric, filename) => {
 
     Object.keys(row).forEach((key) => {
       let root = key;
-      let value = parseFloat(row[key]).toFixed(3);
-      let attr_path = [root, year, scenario, season, metric];
-      setPath(rmemo, attr_path, value);
+      let value = parseFloat(parseFloat(row[key]).toFixed(3));
+      if (!isNaN(value)) {
+        let attr_path = [root, year, scenario, season, metric];
+        setPath(rmemo, attr_path, value);
+      }
     });
     return rmemo;
   }, memo)
