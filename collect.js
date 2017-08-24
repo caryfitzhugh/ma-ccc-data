@@ -92,7 +92,7 @@ const datagrapher_files = () => {
                           metric[1], ['obs'], season[1], metric[2]]);
 
         all_files.push([`projected_state_${metric[0]}_${season[0]}`,
-                          metric[1], ['low','med','high'], season[1], metric[2]]);
+                          metric[1], ['min','med','max'], season[1], metric[2]]);
       });
     });
   });
@@ -181,7 +181,7 @@ const collect = (outfile, mappings) => {
   });
 
   let output_filename = path.join(output_path, outfile +".json")
-  stripped_result = strip_years(result, 5);
+  stripped_result = strip_years(_.cloneDeep(result), 5);
   fs.writeFileSync(output_filename, JSON.stringify(stripped_result, null, 2));
   return result;
 };
