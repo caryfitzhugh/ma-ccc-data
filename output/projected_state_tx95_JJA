@@ -1,322 +1,43 @@
 {
   "data": [
     [
-      "1955",
-      {
-        "25001": [
-          null,
-          null,
-          null
-        ],
-        "25003": [
-          null,
-          null,
-          null
-        ],
-        "25005": [
-          null,
-          null,
-          null
-        ],
-        "25007": [
-          null,
-          null,
-          null
-        ],
-        "25009": [
-          null,
-          null,
-          null
-        ],
-        "25011": [
-          null,
-          null,
-          null
-        ],
-        "25013": [
-          null,
-          null,
-          null
-        ],
-        "25015": [
-          null,
-          null,
-          null
-        ],
-        "25017": [
-          null,
-          null,
-          null
-        ],
-        "25019": [
-          null,
-          null,
-          null
-        ],
-        "25021": [
-          null,
-          null,
-          null
-        ],
-        "25023": [
-          null,
-          null,
-          null
-        ],
-        "25025": [
-          null,
-          null,
-          null
-        ],
-        "25027": [
-          null,
-          null,
-          null
-        ],
-        "MA": [
-          null,
-          null,
-          null
-        ]
-      }
-    ],
-    [
-      "1960",
-      {
-        "25001": [
-          null,
-          null,
-          null
-        ],
-        "25003": [
-          null,
-          null,
-          null
-        ],
-        "25005": [
-          null,
-          null,
-          null
-        ],
-        "25007": [
-          null,
-          null,
-          null
-        ],
-        "25009": [
-          null,
-          null,
-          null
-        ],
-        "25011": [
-          null,
-          null,
-          null
-        ],
-        "25013": [
-          null,
-          null,
-          null
-        ],
-        "25015": [
-          null,
-          null,
-          null
-        ],
-        "25017": [
-          null,
-          null,
-          null
-        ],
-        "25019": [
-          null,
-          null,
-          null
-        ],
-        "25021": [
-          null,
-          null,
-          null
-        ],
-        "25023": [
-          null,
-          null,
-          null
-        ],
-        "25025": [
-          null,
-          null,
-          null
-        ],
-        "25027": [
-          null,
-          null,
-          null
-        ],
-        "MA": [
-          null,
-          null,
-          null
-        ]
-      }
-    ],
-    [
-      "1965",
-      {
-        "25001": [
-          null,
-          null,
-          null
-        ],
-        "25003": [
-          null,
-          null,
-          null
-        ],
-        "25005": [
-          null,
-          null,
-          null
-        ],
-        "25007": [
-          null,
-          null,
-          null
-        ],
-        "25009": [
-          null,
-          null,
-          null
-        ],
-        "25011": [
-          null,
-          null,
-          null
-        ],
-        "25013": [
-          null,
-          null,
-          null
-        ],
-        "25015": [
-          null,
-          null,
-          null
-        ],
-        "25017": [
-          null,
-          null,
-          null
-        ],
-        "25019": [
-          null,
-          null,
-          null
-        ],
-        "25021": [
-          null,
-          null,
-          null
-        ],
-        "25023": [
-          null,
-          null,
-          null
-        ],
-        "25025": [
-          null,
-          null,
-          null
-        ],
-        "25027": [
-          null,
-          null,
-          null
-        ],
-        "MA": [
-          null,
-          null,
-          null
-        ]
-      }
-    ],
-    [
       "1970",
       {
-        "25001": [
-          null,
-          null,
-          null
-        ],
         "25003": [
-          null,
-          null,
-          null
+          0.004
         ],
         "25005": [
-          null,
-          null,
-          null
-        ],
-        "25007": [
-          null,
-          null,
-          null
+          0.485
         ],
         "25009": [
-          null,
-          null,
-          null
+          0.851
         ],
         "25011": [
-          null,
-          null,
-          null
+          0.207
         ],
         "25013": [
-          null,
-          null,
-          null
+          0.5
         ],
         "25015": [
-          null,
-          null,
-          null
+          0.224
         ],
         "25017": [
-          null,
-          null,
-          null
-        ],
-        "25019": [
-          null,
-          null,
-          null
+          1.077
         ],
         "25021": [
-          null,
-          null,
-          null
+          0.757
         ],
         "25023": [
-          null,
-          null,
-          null
+          0.53
         ],
         "25025": [
-          null,
-          null,
-          null
+          1.233
         ],
         "25027": [
-          null,
-          null,
-          null
+          0.248
         ],
         "MA": [
-          null,
-          null,
-          null
+          0.43
         ]
       }
     ],
@@ -324,79 +45,43 @@
       "1975",
       {
         "25001": [
-          null,
-          null,
-          null
+          0.014
         ],
         "25003": [
-          null,
-          null,
-          null
+          0.001
         ],
         "25005": [
-          null,
-          null,
-          null
-        ],
-        "25007": [
-          null,
-          null,
-          null
+          0.485
         ],
         "25009": [
-          null,
-          null,
-          null
+          0.826
         ],
         "25011": [
-          null,
-          null,
-          null
+          0.22
         ],
         "25013": [
-          null,
-          null,
-          null
+          0.392
         ],
         "25015": [
-          null,
-          null,
-          null
+          0.178
         ],
         "25017": [
-          null,
-          null,
-          null
-        ],
-        "25019": [
-          null,
-          null,
-          null
+          1.039
         ],
         "25021": [
-          null,
-          null,
-          null
+          0.78
         ],
         "25023": [
-          null,
-          null,
-          null
+          0.656
         ],
         "25025": [
-          null,
-          null,
-          null
+          1.417
         ],
         "25027": [
-          null,
-          null,
-          null
+          0.163
         ],
         "MA": [
-          null,
-          null,
-          null
+          0.427
         ]
       }
     ],
@@ -404,79 +89,43 @@
       "1980",
       {
         "25001": [
-          null,
-          null,
-          null
+          0.014
         ],
         "25003": [
-          null,
-          null,
-          null
+          0.006
         ],
         "25005": [
-          null,
-          null,
-          null
-        ],
-        "25007": [
-          null,
-          null,
-          null
+          0.337
         ],
         "25009": [
-          null,
-          null,
-          null
+          0.497
         ],
         "25011": [
-          null,
-          null,
-          null
+          0.165
         ],
         "25013": [
-          null,
-          null,
-          null
+          0.409
         ],
         "25015": [
-          null,
-          null,
-          null
+          0.251
         ],
         "25017": [
-          null,
-          null,
-          null
-        ],
-        "25019": [
-          null,
-          null,
-          null
+          0.58
         ],
         "25021": [
-          null,
-          null,
-          null
+          0.497
         ],
         "25023": [
-          null,
-          null,
-          null
+          0.417
         ],
         "25025": [
-          null,
-          null,
-          null
+          1.184
         ],
         "25027": [
-          null,
-          null,
-          null
+          0.128
         ],
         "MA": [
-          null,
-          null,
-          null
+          0.284
         ]
       }
     ],
@@ -484,79 +133,43 @@
       "1985",
       {
         "25001": [
-          null,
-          null,
-          null
+          0.034
         ],
         "25003": [
-          null,
-          null,
-          null
+          0.012
         ],
         "25005": [
-          null,
-          null,
-          null
-        ],
-        "25007": [
-          null,
-          null,
-          null
+          0.872
         ],
         "25009": [
-          null,
-          null,
-          null
+          1.163
         ],
         "25011": [
-          null,
-          null,
-          null
+          0.231
         ],
         "25013": [
-          null,
-          null,
-          null
+          0.523
         ],
         "25015": [
-          null,
-          null,
-          null
+          0.332
         ],
         "25017": [
-          null,
-          null,
-          null
-        ],
-        "25019": [
-          null,
-          null,
-          null
+          1.358
         ],
         "25021": [
-          null,
-          null,
-          null
+          1.373
         ],
         "25023": [
-          null,
-          null,
-          null
+          0.959
         ],
         "25025": [
-          null,
-          null,
-          null
+          1.9
         ],
         "25027": [
-          null,
-          null,
-          null
+          0.299
         ],
         "MA": [
-          null,
-          null,
-          null
+          0.615
         ]
       }
     ],
@@ -564,79 +177,43 @@
       "1990",
       {
         "25001": [
-          null,
-          null,
-          null
+          0.014
         ],
         "25003": [
-          null,
-          null,
-          null
+          0.027
         ],
         "25005": [
-          null,
-          null,
-          null
-        ],
-        "25007": [
-          null,
-          null,
-          null
+          0.812
         ],
         "25009": [
-          null,
-          null,
-          null
+          1.158
         ],
         "25011": [
-          null,
-          null,
-          null
+          0.343
         ],
         "25013": [
-          null,
-          null,
-          null
+          0.636
         ],
         "25015": [
-          null,
-          null,
-          null
+          0.359
         ],
         "25017": [
-          null,
-          null,
-          null
-        ],
-        "25019": [
-          null,
-          null,
-          null
+          1.464
         ],
         "25021": [
-          null,
-          null,
-          null
+          1.133
         ],
         "25023": [
-          null,
-          null,
-          null
+          0.852
         ],
         "25025": [
-          null,
-          null,
-          null
+          1.85
         ],
         "25027": [
-          null,
-          null,
-          null
+          0.253
         ],
         "MA": [
-          null,
-          null,
-          null
+          0.545
         ]
       }
     ],
@@ -644,79 +221,43 @@
       "1995",
       {
         "25001": [
-          null,
-          null,
-          null
+          0.007
         ],
         "25003": [
-          null,
-          null,
-          null
+          0.023
         ],
         "25005": [
-          null,
-          null,
-          null
-        ],
-        "25007": [
-          null,
-          null,
-          null
+          0.502
         ],
         "25009": [
-          null,
-          null,
-          null
+          1.156
         ],
         "25011": [
-          null,
-          null,
-          null
+          0.281
         ],
         "25013": [
-          null,
-          null,
-          null
+          0.668
         ],
         "25015": [
-          null,
-          null,
-          null
+          0.381
         ],
         "25017": [
-          null,
-          null,
-          null
-        ],
-        "25019": [
-          null,
-          null,
-          null
+          1.403
         ],
         "25021": [
-          null,
-          null,
-          null
+          0.98
         ],
         "25023": [
-          null,
-          null,
-          null
+          0.614
         ],
         "25025": [
-          null,
-          null,
-          null
+          1.834
         ],
         "25027": [
-          null,
-          null,
-          null
+          0.352
         ],
         "MA": [
-          null,
-          null,
-          null
+          0.584
         ]
       }
     ],
@@ -724,79 +265,46 @@
       "2000",
       {
         "25001": [
-          null,
-          null,
-          null
+          0.048
         ],
         "25003": [
-          null,
-          null,
-          null
+          0.022
         ],
         "25005": [
-          null,
-          null,
-          null
+          0.957
         ],
         "25007": [
-          null,
-          null,
-          null
+          0.025
         ],
         "25009": [
-          null,
-          null,
-          null
+          0.983
         ],
         "25011": [
-          null,
-          null,
-          null
+          0.478
         ],
         "25013": [
-          null,
-          null,
-          null
+          1.004
         ],
         "25015": [
-          null,
-          null,
-          null
+          0.617
         ],
         "25017": [
-          null,
-          null,
-          null
-        ],
-        "25019": [
-          null,
-          null,
-          null
+          1.602
         ],
         "25021": [
-          null,
-          null,
-          null
+          1.32
         ],
         "25023": [
-          null,
-          null,
-          null
+          1.018
         ],
         "25025": [
-          null,
-          null,
-          null
+          2.017
         ],
         "25027": [
-          null,
-          null,
-          null
+          0.438
         ],
         "MA": [
-          null,
-          null,
-          null
+          0.792
         ]
       }
     ],
@@ -804,79 +312,43 @@
       "2005",
       {
         "25001": [
-          null,
-          null,
-          null
+          0.01
         ],
         "25003": [
-          null,
-          null,
-          null
+          0.031
         ],
         "25005": [
-          null,
-          null,
-          null
-        ],
-        "25007": [
-          null,
-          null,
-          null
+          1.296
         ],
         "25009": [
-          null,
-          null,
-          null
+          1.57
         ],
         "25011": [
-          null,
-          null,
-          null
+          0.626
         ],
         "25013": [
-          null,
-          null,
-          null
+          0.966
         ],
         "25015": [
-          null,
-          null,
-          null
+          0.688
         ],
         "25017": [
-          null,
-          null,
-          null
-        ],
-        "25019": [
-          null,
-          null,
-          null
+          2.141
         ],
         "25021": [
-          null,
-          null,
-          null
+          1.417
         ],
         "25023": [
-          null,
-          null,
-          null
+          1.082
         ],
         "25025": [
-          null,
-          null,
-          null
+          2.034
         ],
         "25027": [
-          null,
-          null,
-          null
+          0.638
         ],
         "MA": [
-          null,
-          null,
-          null
+          0.956
         ]
       }
     ],
@@ -884,79 +356,46 @@
       "2010",
       {
         "25001": [
-          null,
-          null,
-          null
+          0.065
         ],
         "25003": [
-          null,
-          null,
-          null
+          0.059
         ],
         "25005": [
-          null,
-          null,
-          null
+          0.979
         ],
         "25007": [
-          null,
-          null,
-          null
+          0.063
         ],
         "25009": [
-          null,
-          null,
-          null
+          1.717
         ],
         "25011": [
-          null,
-          null,
-          null
+          0.802
         ],
         "25013": [
-          null,
-          null,
-          null
+          1.407
         ],
         "25015": [
-          null,
-          null,
-          null
+          0.949
         ],
         "25017": [
-          null,
-          null,
-          null
-        ],
-        "25019": [
-          null,
-          null,
-          null
+          2.034
         ],
         "25021": [
-          null,
-          null,
-          null
+          1.8
         ],
         "25023": [
-          null,
-          null,
-          null
+          0.977
         ],
         "25025": [
-          null,
-          null,
-          null
+          2.184
         ],
         "25027": [
-          null,
-          null,
-          null
+          0.859
         ],
         "MA": [
-          null,
-          null,
-          null
+          1.119
         ]
       }
     ],
@@ -964,79 +403,46 @@
       "2015",
       {
         "25001": [
-          null,
-          null,
-          null
+          0.072
         ],
         "25003": [
-          null,
-          null,
-          null
+          0.133
         ],
         "25005": [
-          null,
-          null,
-          null
+          1.522
         ],
         "25007": [
-          null,
-          null,
-          null
+          0.05
         ],
         "25009": [
-          null,
-          null,
-          null
+          2.351
         ],
         "25011": [
-          null,
-          null,
-          null
+          1.132
         ],
         "25013": [
-          null,
-          null,
-          null
+          1.945
         ],
         "25015": [
-          null,
-          null,
-          null
+          1.362
         ],
         "25017": [
-          null,
-          null,
-          null
-        ],
-        "25019": [
-          null,
-          null,
-          null
+          3.024
         ],
         "25021": [
-          null,
-          null,
-          null
+          2.63
         ],
         "25023": [
-          null,
-          null,
-          null
+          1.554
         ],
         "25025": [
-          null,
-          null,
-          null
+          2.95
         ],
         "25027": [
-          null,
-          null,
-          null
+          1.18
         ],
         "MA": [
-          null,
-          null,
-          null
+          1.534
         ]
       }
     ],
@@ -1044,79 +450,46 @@
       "2020",
       {
         "25001": [
-          null,
-          null,
-          null
+          0.141
         ],
         "25003": [
-          null,
-          null,
-          null
+          0.163
         ],
         "25005": [
-          null,
-          null,
-          null
+          2.034
         ],
         "25007": [
-          null,
-          null,
-          null
+          0.175
         ],
         "25009": [
-          null,
-          null,
-          null
+          2.443
         ],
         "25011": [
-          null,
-          null,
-          null
+          1.228
         ],
         "25013": [
-          null,
-          null,
-          null
+          2.111
         ],
         "25015": [
-          null,
-          null,
-          null
+          1.545
         ],
         "25017": [
-          null,
-          null,
-          null
-        ],
-        "25019": [
-          null,
-          null,
-          null
+          3.181
         ],
         "25021": [
-          null,
-          null,
-          null
+          2.763
         ],
         "25023": [
-          null,
-          null,
-          null
+          1.885
         ],
         "25025": [
-          null,
-          null,
-          null
+          3.25
         ],
         "25027": [
-          null,
-          null,
-          null
+          1.167
         ],
         "MA": [
-          null,
-          null,
-          null
+          1.627
         ]
       }
     ],
@@ -1124,79 +497,46 @@
       "2025",
       {
         "25001": [
-          null,
-          null,
-          null
+          0.062
         ],
         "25003": [
-          null,
-          null,
-          null
+          0.197
         ],
         "25005": [
-          null,
-          null,
-          null
+          1.802
         ],
         "25007": [
-          null,
-          null,
-          null
+          0.063
         ],
         "25009": [
-          null,
-          null,
-          null
+          2.372
         ],
         "25011": [
-          null,
-          null,
-          null
+          1.235
         ],
         "25013": [
-          null,
-          null,
-          null
+          2.028
         ],
         "25015": [
-          null,
-          null,
-          null
+          1.42
         ],
         "25017": [
-          null,
-          null,
-          null
-        ],
-        "25019": [
-          null,
-          null,
-          null
+          3.217
         ],
         "25021": [
-          null,
-          null,
-          null
+          2.62
         ],
         "25023": [
-          null,
-          null,
-          null
+          1.606
         ],
         "25025": [
-          null,
-          null,
-          null
+          3.267
         ],
         "25027": [
-          null,
-          null,
-          null
+          1.219
         ],
         "MA": [
-          null,
-          null,
-          null
+          1.539
         ]
       }
     ],
@@ -1204,79 +544,46 @@
       "2030",
       {
         "25001": [
-          null,
-          null,
-          null
+          0.2
         ],
         "25003": [
-          null,
-          null,
-          null
+          0.398
         ],
         "25005": [
-          null,
-          null,
-          null
+          2.562
         ],
         "25007": [
-          null,
-          null,
-          null
+          0.225
         ],
         "25009": [
-          null,
-          null,
-          null
+          3.59
         ],
         "25011": [
-          null,
-          null,
-          null
+          2.335
         ],
         "25013": [
-          null,
-          null,
-          null
+          3.264
         ],
         "25015": [
-          null,
-          null,
-          null
+          2.501
         ],
         "25017": [
-          null,
-          null,
-          null
-        ],
-        "25019": [
-          null,
-          null,
-          null
+          4.517
         ],
         "25021": [
-          null,
-          null,
-          null
+          3.756
         ],
         "25023": [
-          null,
-          null,
-          null
+          2.342
         ],
         "25025": [
-          null,
-          null,
-          null
+          5.017
         ],
         "25027": [
-          null,
-          null,
-          null
+          2.001
         ],
         "MA": [
-          null,
-          null,
-          null
+          2.479
         ]
       }
     ],
@@ -1284,79 +591,46 @@
       "2035",
       {
         "25001": [
-          null,
-          null,
-          null
+          0.348
         ],
         "25003": [
-          null,
-          null,
-          null
+          0.643
         ],
         "25005": [
-          null,
-          null,
-          null
+          3.033
         ],
         "25007": [
-          null,
-          null,
-          null
+          0.3
         ],
         "25009": [
-          null,
-          null,
-          null
+          4.078
         ],
         "25011": [
-          null,
-          null,
-          null
+          2.413
         ],
         "25013": [
-          null,
-          null,
-          null
+          3.86
         ],
         "25015": [
-          null,
-          null,
-          null
+          2.777
         ],
         "25017": [
-          null,
-          null,
-          null
-        ],
-        "25019": [
-          null,
-          null,
-          null
+          5.09
         ],
         "25021": [
-          null,
-          null,
-          null
+          5.046
         ],
         "25023": [
-          null,
-          null,
-          null
+          2.8
         ],
         "25025": [
-          null,
-          null,
-          null
+          5.701
         ],
         "25027": [
-          null,
-          null,
-          null
+          2.367
         ],
         "MA": [
-          null,
-          null,
-          null
+          2.95
         ]
       }
     ],
@@ -1364,79 +638,46 @@
       "2040",
       {
         "25001": [
-          null,
-          null,
-          null
+          0.624
         ],
         "25003": [
-          null,
-          null,
-          null
+          1.101
         ],
         "25005": [
-          null,
-          null,
-          null
+          4.491
         ],
         "25007": [
-          null,
-          null,
-          null
+          0.5
         ],
         "25009": [
-          null,
-          null,
-          null
+          5.753
         ],
         "25011": [
-          null,
-          null,
-          null
+          4.108
         ],
         "25013": [
-          null,
-          null,
-          null
+          5.318
         ],
         "25015": [
-          null,
-          null,
-          null
+          4.453
         ],
         "25017": [
-          null,
-          null,
-          null
-        ],
-        "25019": [
-          null,
-          null,
-          null
+          7.343
         ],
         "25021": [
-          null,
-          null,
-          null
+          6.386
         ],
         "25023": [
-          null,
-          null,
-          null
+          3.581
         ],
         "25025": [
-          null,
-          null,
-          null
+          7.417
         ],
         "25027": [
-          null,
-          null,
-          null
+          3.644
         ],
         "MA": [
-          null,
-          null,
-          null
+          4.21
         ]
       }
     ],
@@ -1444,79 +685,46 @@
       "2045",
       {
         "25001": [
-          null,
-          null,
-          null
+          0.293
         ],
         "25003": [
-          null,
-          null,
-          null
+          0.797
         ],
         "25005": [
-          null,
-          null,
-          null
+          3.383
         ],
         "25007": [
-          null,
-          null,
-          null
+          0.263
         ],
         "25009": [
-          null,
-          null,
-          null
+          4.887
         ],
         "25011": [
-          null,
-          null,
-          null
+          3.452
         ],
         "25013": [
-          null,
-          null,
-          null
+          4.607
         ],
         "25015": [
-          null,
-          null,
-          null
+          3.887
         ],
         "25017": [
-          null,
-          null,
-          null
-        ],
-        "25019": [
-          null,
-          null,
-          null
+          6.373
         ],
         "25021": [
-          null,
-          null,
-          null
+          5.53
         ],
         "25023": [
-          null,
-          null,
-          null
+          2.945
         ],
         "25025": [
-          null,
-          null,
-          null
+          6.351
         ],
         "25027": [
-          null,
-          null,
-          null
+          3.096
         ],
         "MA": [
-          null,
-          null,
-          null
+          3.409
         ]
       }
     ],
@@ -1524,79 +732,46 @@
       "2050",
       {
         "25001": [
-          null,
-          null,
-          null
+          0.689
         ],
         "25003": [
-          null,
-          null,
-          null
+          1.197
         ],
         "25005": [
-          null,
-          null,
-          null
+          4.97
         ],
         "25007": [
-          null,
-          null,
-          null
+          0.525
         ],
         "25009": [
-          null,
-          null,
-          null
+          6.114
         ],
         "25011": [
-          null,
-          null,
-          null
+          5.062
         ],
         "25013": [
-          null,
-          null,
-          null
+          6.239
         ],
         "25015": [
-          null,
-          null,
-          null
+          5.185
         ],
         "25017": [
-          null,
-          null,
-          null
-        ],
-        "25019": [
-          null,
-          null,
-          null
+          8.214
         ],
         "25021": [
-          null,
-          null,
-          null
+          7.183
         ],
         "25023": [
-          null,
-          null,
-          null
+          4.646
         ],
         "25025": [
-          null,
-          null,
-          null
+          8.501
         ],
         "25027": [
-          null,
-          null,
-          null
+          4.473
         ],
         "MA": [
-          null,
-          null,
-          null
+          4.598
         ]
       }
     ],
@@ -1604,79 +779,49 @@
       "2055",
       {
         "25001": [
-          null,
-          null,
-          null
+          0.517
         ],
         "25003": [
-          null,
-          null,
-          null
+          1.106
         ],
         "25005": [
-          null,
-          null,
-          null
+          4.618
         ],
         "25007": [
-          null,
-          null,
-          null
+          0.65
         ],
         "25009": [
-          null,
-          null,
-          null
+          6.084
         ],
         "25011": [
-          null,
-          null,
-          null
+          4.51
         ],
         "25013": [
-          null,
-          null,
-          null
+          5.741
         ],
         "25015": [
-          null,
-          null,
-          null
+          4.748
         ],
         "25017": [
-          null,
-          null,
-          null
+          7.224
         ],
         "25019": [
-          null,
-          null,
-          null
+          0.05
         ],
         "25021": [
-          null,
-          null,
-          null
+          7.176
         ],
         "25023": [
-          null,
-          null,
-          null
+          4.192
         ],
         "25025": [
-          null,
-          null,
-          null
+          8.134
         ],
         "25027": [
-          null,
-          null,
-          null
+          3.609
         ],
         "MA": [
-          null,
-          null,
-          null
+          4.3
         ]
       }
     ],
@@ -1684,79 +829,49 @@
       "2060",
       {
         "25001": [
-          null,
-          null,
-          null
+          0.896
         ],
         "25003": [
-          null,
-          null,
-          null
+          1.865
         ],
         "25005": [
-          null,
-          null,
-          null
+          5.983
         ],
         "25007": [
-          null,
-          null,
-          null
+          1.063
         ],
         "25009": [
-          null,
-          null,
-          null
+          7.633
         ],
         "25011": [
-          null,
-          null,
-          null
+          5.987
         ],
         "25013": [
-          null,
-          null,
-          null
+          7.8
         ],
         "25015": [
-          null,
-          null,
-          null
+          6.366
         ],
         "25017": [
-          null,
-          null,
-          null
+          10.356
         ],
         "25019": [
-          null,
-          null,
-          null
+          0.2
         ],
         "25021": [
-          null,
-          null,
-          null
+          9.229
         ],
         "25023": [
-          null,
-          null,
-          null
+          4.82
         ],
         "25025": [
-          null,
-          null,
-          null
+          10.885
         ],
         "25027": [
-          null,
-          null,
-          null
+          5.48
         ],
         "MA": [
-          null,
-          null,
-          null
+          5.775
         ]
       }
     ],
@@ -1764,79 +879,49 @@
       "2065",
       {
         "25001": [
-          null,
-          null,
-          null
+          0.9
         ],
         "25003": [
-          null,
-          null,
-          null
+          2.86
         ],
         "25005": [
-          null,
-          null,
-          null
+          6.899
         ],
         "25007": [
-          null,
-          null,
-          null
+          1.063
         ],
         "25009": [
-          null,
-          null,
-          null
+          8.062
         ],
         "25011": [
-          null,
-          null,
-          null
+          7.86
         ],
         "25013": [
-          null,
-          null,
-          null
+          9.232
         ],
         "25015": [
-          null,
-          null,
-          null
+          7.808
         ],
         "25017": [
-          null,
-          null,
-          null
+          10.838
         ],
         "25019": [
-          null,
-          null,
-          null
+          0.2
         ],
         "25021": [
-          null,
-          null,
-          null
+          9.997
         ],
         "25023": [
-          null,
-          null,
-          null
+          5.612
         ],
         "25025": [
-          null,
-          null,
-          null
+          10.918
         ],
         "25027": [
-          null,
-          null,
-          null
+          6.914
         ],
         "MA": [
-          null,
-          null,
-          null
+          6.916
         ]
       }
     ],
@@ -1844,79 +929,49 @@
       "2070",
       {
         "25001": [
-          null,
-          null,
-          null
+          0.965
         ],
         "25003": [
-          null,
-          null,
-          null
+          2.594
         ],
         "25005": [
-          null,
-          null,
-          null
+          7.688
         ],
         "25007": [
-          null,
-          null,
-          null
+          1.163
         ],
         "25009": [
-          null,
-          null,
-          null
+          9.559
         ],
         "25011": [
-          null,
-          null,
-          null
+          8.634
         ],
         "25013": [
-          null,
-          null,
-          null
+          10.926
         ],
         "25015": [
-          null,
-          null,
-          null
+          9.053
         ],
         "25017": [
-          null,
-          null,
-          null
+          11.9
         ],
         "25019": [
-          null,
-          null,
-          null
+          0.25
         ],
         "25021": [
-          null,
-          null,
-          null
+          10.813
         ],
         "25023": [
-          null,
-          null,
-          null
+          6.616
         ],
         "25025": [
-          null,
-          null,
-          null
+          12.468
         ],
         "25027": [
-          null,
-          null,
-          null
+          7.093
         ],
         "MA": [
-          null,
-          null,
-          null
+          7.764
         ]
       }
     ],
@@ -1924,79 +979,49 @@
       "2075",
       {
         "25001": [
-          null,
-          null,
-          null
+          1.138
         ],
         "25003": [
-          null,
-          null,
-          null
+          2.97
         ],
         "25005": [
-          null,
-          null,
-          null
+          7.344
         ],
         "25007": [
-          null,
-          null,
-          null
+          1.138
         ],
         "25009": [
-          null,
-          null,
-          null
+          9.916
         ],
         "25011": [
-          null,
-          null,
-          null
+          9.675
         ],
         "25013": [
-          null,
-          null,
-          null
+          10.92
         ],
         "25015": [
-          null,
-          null,
-          null
+          9.396
         ],
         "25017": [
-          null,
-          null,
-          null
+          13.976
         ],
         "25019": [
-          null,
-          null,
-          null
+          0.2
         ],
         "25021": [
-          null,
-          null,
-          null
+          12.096
         ],
         "25023": [
-          null,
-          null,
-          null
+          7.065
         ],
         "25025": [
-          null,
-          null,
-          null
+          13.752
         ],
         "25027": [
-          null,
-          null,
-          null
+          8.041
         ],
         "MA": [
-          null,
-          null,
-          null
+          8.506
         ]
       }
     ],
@@ -2004,79 +1029,49 @@
       "2080",
       {
         "25001": [
-          null,
-          null,
-          null
+          1.262
         ],
         "25003": [
-          null,
-          null,
-          null
+          3.343
         ],
         "25005": [
-          null,
-          null,
-          null
+          8.344
         ],
         "25007": [
-          null,
-          null,
-          null
+          1.4
         ],
         "25009": [
-          null,
-          null,
-          null
+          11.118
         ],
         "25011": [
-          null,
-          null,
-          null
+          10.091
         ],
         "25013": [
-          null,
-          null,
-          null
+          10.806
         ],
         "25015": [
-          null,
-          null,
-          null
+          9.789
         ],
         "25017": [
-          null,
-          null,
-          null
+          15.209
         ],
         "25019": [
-          null,
-          null,
-          null
+          0.225
         ],
         "25021": [
-          null,
-          null,
-          null
+          13.009
         ],
         "25023": [
-          null,
-          null,
-          null
+          7.162
         ],
         "25025": [
-          null,
-          null,
-          null
+          15.118
         ],
         "25027": [
-          null,
-          null,
-          null
+          8.584
         ],
         "MA": [
-          null,
-          null,
-          null
+          8.949
         ]
       }
     ],
@@ -2084,79 +1079,49 @@
       "2085",
       {
         "25001": [
-          null,
-          null,
-          null
+          1.441
         ],
         "25003": [
-          null,
-          null,
-          null
+          3.545
         ],
         "25005": [
-          null,
-          null,
-          null
+          8.764
         ],
         "25007": [
-          null,
-          null,
-          null
+          1.213
         ],
         "25009": [
-          null,
-          null,
-          null
+          11.186
         ],
         "25011": [
-          null,
-          null,
-          null
+          10.836
         ],
         "25013": [
-          null,
-          null,
-          null
+          12.564
         ],
         "25015": [
-          null,
-          null,
-          null
+          10.721
         ],
         "25017": [
-          null,
-          null,
-          null
+          15.53
         ],
         "25019": [
-          null,
-          null,
-          null
+          0.2
         ],
         "25021": [
-          null,
-          null,
-          null
+          12.67
         ],
         "25023": [
-          null,
-          null,
-          null
+          7.932
         ],
         "25025": [
-          null,
-          null,
-          null
+          15.202
         ],
         "25027": [
-          null,
-          null,
-          null
+          9.476
         ],
         "MA": [
-          null,
-          null,
-          null
+          9.475
         ]
       }
     ],
@@ -2164,79 +1129,49 @@
       "2090",
       {
         "25001": [
-          null,
-          null,
-          null
+          1.793
         ],
         "25003": [
-          null,
-          null,
-          null
+          2.976
         ],
         "25005": [
-          null,
-          null,
-          null
+          8.777
         ],
         "25007": [
-          null,
-          null,
-          null
+          1.763
         ],
         "25009": [
-          null,
-          null,
-          null
+          11.198
         ],
         "25011": [
-          null,
-          null,
-          null
+          9.845
         ],
         "25013": [
-          null,
-          null,
-          null
+          11.303
         ],
         "25015": [
-          null,
-          null,
-          null
+          10.047
         ],
         "25017": [
-          null,
-          null,
-          null
+          15.292
         ],
         "25019": [
-          null,
-          null,
-          null
+          0.325
         ],
         "25021": [
-          null,
-          null,
-          null
+          12.863
         ],
         "25023": [
-          null,
-          null,
-          null
+          7.474
         ],
         "25025": [
-          null,
-          null,
-          null
+          15.569
         ],
         "25027": [
-          null,
-          null,
-          null
+          8.494
         ],
         "MA": [
-          null,
-          null,
-          null
+          8.977
         ]
       }
     ],
@@ -2244,79 +1179,49 @@
       "2095",
       {
         "25001": [
-          null,
-          null,
-          null
+          2.903
         ],
         "25003": [
-          null,
-          null,
-          null
+          5.306
         ],
         "25005": [
-          null,
-          null,
-          null
+          13.664
         ],
         "25007": [
-          null,
-          null,
-          null
+          2.475
         ],
         "25009": [
-          null,
-          null,
-          null
+          14.584
         ],
         "25011": [
-          null,
-          null,
-          null
+          13.312
         ],
         "25013": [
-          null,
-          null,
-          null
+          14.424
         ],
         "25015": [
-          null,
-          null,
-          null
+          13.731
         ],
         "25017": [
-          null,
-          null,
-          null
+          18.537
         ],
         "25019": [
-          null,
-          null,
-          null
+          0.6
         ],
         "25021": [
-          null,
-          null,
-          null
+          17.663
         ],
         "25023": [
-          null,
-          null,
-          null
+          11.81
         ],
         "25025": [
-          null,
-          null,
-          null
+          17.485
         ],
         "25027": [
-          null,
-          null,
-          null
+          11.319
         ],
         "MA": [
-          null,
-          null,
-          null
+          11.782
         ]
       }
     ]

@@ -198,7 +198,7 @@ datagrapher_files().forEach((file_spec) => {
   let source_sel = file_spec[2];
   let season_sel = file_spec[3];
   let season_spec = datagrapher_seasons[season_sel];
-  let metric_sel = file_spec[3];
+  let metric_sel = file_spec[4];
   let year_results = {};
 
   let data = all_data[data_sel];
@@ -207,14 +207,22 @@ datagrapher_files().forEach((file_spec) => {
   Object.keys(data).forEach((location) => {
     let loc_data = data[location];
     Object.keys(loc_data).forEach((year) => {
-      let metric_data = source_sel.map((sel) => {
-        let year_data = loc_data[year][source_sel];
+      let metric_data = _.compact(source_sel.map((sel) => {
+        let year_data = loc_data[year][sel];
         if (year_data) {
           let season_data = year_data[season_sel];
-          return season_data[metric_sel];
+          if (season_data) {
+            return season_data[metric_sel];
+          } else {
+            return 0;
+          }
         }
-      });
-      setPath(year_results, [year, datagrapher_location_map[location]], metric_data);
+        return null;
+      }));
+
+      if (metric_data.length > 0) {
+        setPath(year_results, [year, datagrapher_location_map[location]], metric_data);
+      }
     });
   });
 
