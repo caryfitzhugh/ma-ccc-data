@@ -1,0 +1,3167 @@
+{
+  "Barnstable": {
+    "1955": {
+      "obs": {
+        "annual": {
+          "cdd": 18.863
+        },
+        "fall": {
+          "cdd": 10.795
+        },
+        "spring": {
+          "cdd": 11.655
+        },
+        "summer": {
+          "cdd": 15.966
+        },
+        "winter": {
+          "cdd": 15.964
+        }
+      }
+    },
+    "1960": {
+      "obs": {
+        "annual": {
+          "cdd": 16.243
+        },
+        "fall": {
+          "cdd": 12.724
+        },
+        "spring": {
+          "cdd": 10.827
+        },
+        "summer": {
+          "cdd": 13.415
+        },
+        "winter": {
+          "cdd": 5.724
+        }
+      }
+    },
+    "1965": {
+      "obs": {
+        "annual": {
+          "cdd": 18.382
+        },
+        "fall": {
+          "cdd": 18.278
+        },
+        "spring": {
+          "cdd": 11.343
+        },
+        "summer": {
+          "cdd": 13.588
+        },
+        "winter": {
+          "cdd": 8.136
+        }
+      }
+    },
+    "1970": {
+      "obs": {
+        "annual": {
+          "cdd": 15.897
+        },
+        "fall": {
+          "cdd": 10.311
+        },
+        "spring": {
+          "cdd": 15.21
+        },
+        "summer": {
+          "cdd": 13.585
+        },
+        "winter": {
+          "cdd": 11
+        }
+      }
+    },
+    "1975": {
+      "obs": {
+        "annual": {
+          "cdd": 21.62
+        },
+        "fall": {
+          "cdd": 8
+        },
+        "spring": {
+          "cdd": 14.829
+        },
+        "summer": {
+          "cdd": 21.62
+        },
+        "winter": {
+          "cdd": 6.204
+        }
+      }
+    },
+    "1980": {
+      "obs": {
+        "annual": {
+          "cdd": 20.657
+        },
+        "fall": {
+          "cdd": 10.034
+        },
+        "spring": {
+          "cdd": 6.863
+        },
+        "summer": {
+          "cdd": 16.45
+        },
+        "winter": {
+          "cdd": 14.448
+        }
+      }
+    },
+    "1985": {
+      "obs": {
+        "annual": {
+          "cdd": 15.621
+        },
+        "fall": {
+          "cdd": 13.621
+        },
+        "spring": {
+          "cdd": 12.345
+        },
+        "summer": {
+          "cdd": 12.827
+        },
+        "winter": {
+          "cdd": 14.172
+        }
+      }
+    },
+    "1990": {
+      "obs": {
+        "annual": {
+          "cdd": 17.515
+        },
+        "fall": {
+          "cdd": 11.827
+        },
+        "spring": {
+          "cdd": 8.414
+        },
+        "summer": {
+          "cdd": 15.237
+        },
+        "winter": {
+          "cdd": 14
+        }
+      }
+    },
+    "1995": {
+      "obs": {
+        "annual": {
+          "cdd": 33.307
+        },
+        "fall": {
+          "cdd": 12.414
+        },
+        "spring": {
+          "cdd": 14.035
+        },
+        "summer": {
+          "cdd": 24
+        },
+        "winter": {
+          "cdd": 11
+        }
+      }
+    },
+    "2000": {
+      "obs": {
+        "annual": {
+          "cdd": 11.655
+        },
+        "fall": {
+          "cdd": 8.76
+        },
+        "spring": {
+          "cdd": 10
+        },
+        "summer": {
+          "cdd": 9.207
+        },
+        "winter": {
+          "cdd": 13.001
+        }
+      }
+    },
+    "2005": {
+      "obs": {
+        "annual": {
+          "cdd": 20.623
+        },
+        "fall": {
+          "cdd": 13.484
+        },
+        "spring": {
+          "cdd": 12.896
+        },
+        "summer": {
+          "cdd": 19.658
+        },
+        "winter": {
+          "cdd": 7.036
+        }
+      }
+    }
+  },
+  "Berkshire": {
+    "1955": {
+      "obs": {
+        "annual": {
+          "cdd": 18.102
+        },
+        "fall": {
+          "cdd": 10.6
+        },
+        "spring": {
+          "cdd": 14.323
+        },
+        "summer": {
+          "cdd": 10.505
+        },
+        "winter": {
+          "cdd": 16.632
+        }
+      }
+    },
+    "1960": {
+      "obs": {
+        "annual": {
+          "cdd": 17.485
+        },
+        "fall": {
+          "cdd": 17.101
+        },
+        "spring": {
+          "cdd": 10.646
+        },
+        "summer": {
+          "cdd": 7.618
+        },
+        "winter": {
+          "cdd": 7
+        }
+      }
+    },
+    "1965": {
+      "obs": {
+        "annual": {
+          "cdd": 14.873
+        },
+        "fall": {
+          "cdd": 12.468
+        },
+        "spring": {
+          "cdd": 10.809
+        },
+        "summer": {
+          "cdd": 10.483
+        },
+        "winter": {
+          "cdd": 9.338
+        }
+      }
+    },
+    "1970": {
+      "obs": {
+        "annual": {
+          "cdd": 16.78
+        },
+        "fall": {
+          "cdd": 11.099
+        },
+        "spring": {
+          "cdd": 13.147
+        },
+        "summer": {
+          "cdd": 13.709
+        },
+        "winter": {
+          "cdd": 13.293
+        }
+      }
+    },
+    "1975": {
+      "obs": {
+        "annual": {
+          "cdd": 15.905
+        },
+        "fall": {
+          "cdd": 12.617
+        },
+        "spring": {
+          "cdd": 13.002
+        },
+        "summer": {
+          "cdd": 14.453
+        },
+        "winter": {
+          "cdd": 6.5
+        }
+      }
+    },
+    "1980": {
+      "obs": {
+        "annual": {
+          "cdd": 27.131
+        },
+        "fall": {
+          "cdd": 6.795
+        },
+        "spring": {
+          "cdd": 10.305
+        },
+        "summer": {
+          "cdd": 10.737
+        },
+        "winter": {
+          "cdd": 27.131
+        }
+      }
+    },
+    "1985": {
+      "obs": {
+        "annual": {
+          "cdd": 16.725
+        },
+        "fall": {
+          "cdd": 11.968
+        },
+        "spring": {
+          "cdd": 15.781
+        },
+        "summer": {
+          "cdd": 6.266
+        },
+        "winter": {
+          "cdd": 13.446
+        }
+      }
+    },
+    "1990": {
+      "obs": {
+        "annual": {
+          "cdd": 12.471
+        },
+        "fall": {
+          "cdd": 10.502
+        },
+        "spring": {
+          "cdd": 8.32
+        },
+        "summer": {
+          "cdd": 9.517
+        },
+        "winter": {
+          "cdd": 12.399
+        }
+      }
+    },
+    "1995": {
+      "obs": {
+        "annual": {
+          "cdd": 19.144
+        },
+        "fall": {
+          "cdd": 7.824
+        },
+        "spring": {
+          "cdd": 8.087
+        },
+        "summer": {
+          "cdd": 19.144
+        },
+        "winter": {
+          "cdd": 10.72
+        }
+      }
+    },
+    "2000": {
+      "obs": {
+        "annual": {
+          "cdd": 14.484
+        },
+        "fall": {
+          "cdd": 14.338
+        },
+        "spring": {
+          "cdd": 8.279
+        },
+        "summer": {
+          "cdd": 6.942
+        },
+        "winter": {
+          "cdd": 12.103
+        }
+      }
+    },
+    "2005": {
+      "obs": {
+        "annual": {
+          "cdd": 13.016
+        },
+        "fall": {
+          "cdd": 11.898
+        },
+        "spring": {
+          "cdd": 12.562
+        },
+        "summer": {
+          "cdd": 9.176
+        },
+        "winter": {
+          "cdd": 12.633
+        }
+      }
+    }
+  },
+  "Bristol": {
+    "1955": {
+      "obs": {
+        "annual": {
+          "cdd": 18.519
+        },
+        "fall": {
+          "cdd": 13.227
+        },
+        "spring": {
+          "cdd": 12.074
+        },
+        "summer": {
+          "cdd": 11.252
+        },
+        "winter": {
+          "cdd": 16.264
+        }
+      }
+    },
+    "1960": {
+      "obs": {
+        "annual": {
+          "cdd": 16.494
+        },
+        "fall": {
+          "cdd": 15.596
+        },
+        "spring": {
+          "cdd": 10.55
+        },
+        "summer": {
+          "cdd": 10.844
+        },
+        "winter": {
+          "cdd": 6.951
+        }
+      }
+    },
+    "1965": {
+      "obs": {
+        "annual": {
+          "cdd": 19.947
+        },
+        "fall": {
+          "cdd": 19.822
+        },
+        "spring": {
+          "cdd": 13.843
+        },
+        "summer": {
+          "cdd": 12.575
+        },
+        "winter": {
+          "cdd": 9.274
+        }
+      }
+    },
+    "1970": {
+      "obs": {
+        "annual": {
+          "cdd": 13.849
+        },
+        "fall": {
+          "cdd": 10
+        },
+        "spring": {
+          "cdd": 12.199
+        },
+        "summer": {
+          "cdd": 12.401
+        },
+        "winter": {
+          "cdd": 11.949
+        }
+      }
+    },
+    "1975": {
+      "obs": {
+        "annual": {
+          "cdd": 17.175
+        },
+        "fall": {
+          "cdd": 9.849
+        },
+        "spring": {
+          "cdd": 14.973
+        },
+        "summer": {
+          "cdd": 15.627
+        },
+        "winter": {
+          "cdd": 5.049
+        }
+      }
+    },
+    "1980": {
+      "obs": {
+        "annual": {
+          "cdd": 23.247
+        },
+        "fall": {
+          "cdd": 13.02
+        },
+        "spring": {
+          "cdd": 9.075
+        },
+        "summer": {
+          "cdd": 15.807
+        },
+        "winter": {
+          "cdd": 16.672
+        }
+      }
+    },
+    "1985": {
+      "obs": {
+        "annual": {
+          "cdd": 15.599
+        },
+        "fall": {
+          "cdd": 12.225
+        },
+        "spring": {
+          "cdd": 12.499
+        },
+        "summer": {
+          "cdd": 14.099
+        },
+        "winter": {
+          "cdd": 13.075
+        }
+      }
+    },
+    "1990": {
+      "obs": {
+        "annual": {
+          "cdd": 17.371
+        },
+        "fall": {
+          "cdd": 12.572
+        },
+        "spring": {
+          "cdd": 7.975
+        },
+        "summer": {
+          "cdd": 9.825
+        },
+        "winter": {
+          "cdd": 11.398
+        }
+      }
+    },
+    "1995": {
+      "obs": {
+        "annual": {
+          "cdd": 32.96
+        },
+        "fall": {
+          "cdd": 12
+        },
+        "spring": {
+          "cdd": 6.949
+        },
+        "summer": {
+          "cdd": 23.652
+        },
+        "winter": {
+          "cdd": 11.174
+        }
+      }
+    },
+    "2000": {
+      "obs": {
+        "annual": {
+          "cdd": 12.921
+        },
+        "fall": {
+          "cdd": 10.15
+        },
+        "spring": {
+          "cdd": 10
+        },
+        "summer": {
+          "cdd": 11.544
+        },
+        "winter": {
+          "cdd": 12.9
+        }
+      }
+    },
+    "2005": {
+      "obs": {
+        "annual": {
+          "cdd": 18.078
+        },
+        "fall": {
+          "cdd": 13.651
+        },
+        "spring": {
+          "cdd": 11.476
+        },
+        "summer": {
+          "cdd": 17.729
+        },
+        "winter": {
+          "cdd": 8.099
+        }
+      }
+    }
+  },
+  "Dukes": {
+    "1955": {
+      "obs": {
+        "annual": {
+          "cdd": 16.125
+        },
+        "fall": {
+          "cdd": 16.125
+        },
+        "spring": {
+          "cdd": 6.125
+        },
+        "summer": {
+          "cdd": 11.125
+        },
+        "winter": {
+          "cdd": 13
+        }
+      }
+    },
+    "1960": {
+      "obs": {
+        "annual": {
+          "cdd": 13.5
+        },
+        "fall": {
+          "cdd": 12.125
+        },
+        "spring": {
+          "cdd": 11
+        },
+        "summer": {
+          "cdd": 11.25
+        },
+        "winter": {
+          "cdd": 6
+        }
+      }
+    },
+    "1965": {
+      "obs": {
+        "annual": {
+          "cdd": 15.5
+        },
+        "fall": {
+          "cdd": 15.5
+        },
+        "spring": {
+          "cdd": 11
+        },
+        "summer": {
+          "cdd": 14.125
+        },
+        "winter": {
+          "cdd": 10
+        }
+      }
+    },
+    "1970": {
+      "obs": {
+        "annual": {
+          "cdd": 16
+        },
+        "fall": {
+          "cdd": 10
+        },
+        "spring": {
+          "cdd": 16
+        },
+        "summer": {
+          "cdd": 13.625
+        },
+        "winter": {
+          "cdd": 11
+        }
+      }
+    },
+    "1975": {
+      "obs": {
+        "annual": {
+          "cdd": 18
+        },
+        "fall": {
+          "cdd": 10.25
+        },
+        "spring": {
+          "cdd": 13
+        },
+        "summer": {
+          "cdd": 18
+        },
+        "winter": {
+          "cdd": 5.75
+        }
+      }
+    },
+    "1980": {
+      "obs": {
+        "annual": {
+          "cdd": 18
+        },
+        "fall": {
+          "cdd": 15
+        },
+        "spring": {
+          "cdd": 8
+        },
+        "summer": {
+          "cdd": 17.25
+        },
+        "winter": {
+          "cdd": 14.25
+        }
+      }
+    },
+    "1985": {
+      "obs": {
+        "annual": {
+          "cdd": 15
+        },
+        "fall": {
+          "cdd": 12
+        },
+        "spring": {
+          "cdd": 12
+        },
+        "summer": {
+          "cdd": 11.75
+        },
+        "winter": {
+          "cdd": 15
+        }
+      }
+    },
+    "1990": {
+      "obs": {
+        "annual": {
+          "cdd": 12
+        },
+        "fall": {
+          "cdd": 11
+        },
+        "spring": {
+          "cdd": 8
+        },
+        "summer": {
+          "cdd": 10
+        },
+        "winter": {
+          "cdd": 14
+        }
+      }
+    },
+    "1995": {
+      "obs": {
+        "annual": {
+          "cdd": 37
+        },
+        "fall": {
+          "cdd": 12
+        },
+        "spring": {
+          "cdd": 14
+        },
+        "summer": {
+          "cdd": 25
+        },
+        "winter": {
+          "cdd": 11.125
+        }
+      }
+    },
+    "2000": {
+      "obs": {
+        "annual": {
+          "cdd": 11.5
+        },
+        "fall": {
+          "cdd": 9
+        },
+        "spring": {
+          "cdd": 10
+        },
+        "summer": {
+          "cdd": 10.25
+        },
+        "winter": {
+          "cdd": 18.125
+        }
+      }
+    },
+    "2005": {
+      "obs": {
+        "annual": {
+          "cdd": 28.874
+        },
+        "fall": {
+          "cdd": 14
+        },
+        "spring": {
+          "cdd": 13
+        },
+        "summer": {
+          "cdd": 28.874
+        },
+        "winter": {
+          "cdd": 6
+        }
+      }
+    }
+  },
+  "Essex": {
+    "1955": {
+      "obs": {
+        "annual": {
+          "cdd": 24.66
+        },
+        "fall": {
+          "cdd": 17.463
+        },
+        "spring": {
+          "cdd": 15.952
+        },
+        "summer": {
+          "cdd": 14.144
+        },
+        "winter": {
+          "cdd": 21.733
+        }
+      }
+    },
+    "1960": {
+      "obs": {
+        "annual": {
+          "cdd": 17.562
+        },
+        "fall": {
+          "cdd": 17.562
+        },
+        "spring": {
+          "cdd": 10.732
+        },
+        "summer": {
+          "cdd": 12.392
+        },
+        "winter": {
+          "cdd": 6.731
+        }
+      }
+    },
+    "1965": {
+      "obs": {
+        "annual": {
+          "cdd": 17.491
+        },
+        "fall": {
+          "cdd": 16.686
+        },
+        "spring": {
+          "cdd": 14.855
+        },
+        "summer": {
+          "cdd": 11.71
+        },
+        "winter": {
+          "cdd": 10.389
+        }
+      }
+    },
+    "1970": {
+      "obs": {
+        "annual": {
+          "cdd": 15.633
+        },
+        "fall": {
+          "cdd": 10
+        },
+        "spring": {
+          "cdd": 14.875
+        },
+        "summer": {
+          "cdd": 13.391
+        },
+        "winter": {
+          "cdd": 12
+        }
+      }
+    },
+    "1975": {
+      "obs": {
+        "annual": {
+          "cdd": 19.294
+        },
+        "fall": {
+          "cdd": 12.731
+        },
+        "spring": {
+          "cdd": 13.269
+        },
+        "summer": {
+          "cdd": 19.294
+        },
+        "winter": {
+          "cdd": 5.048
+        }
+      }
+    },
+    "1980": {
+      "obs": {
+        "annual": {
+          "cdd": 23.364
+        },
+        "fall": {
+          "cdd": 9.025
+        },
+        "spring": {
+          "cdd": 6.317
+        },
+        "summer": {
+          "cdd": 9.757
+        },
+        "winter": {
+          "cdd": 23.364
+        }
+      }
+    },
+    "1985": {
+      "obs": {
+        "annual": {
+          "cdd": 16.707
+        },
+        "fall": {
+          "cdd": 10.268
+        },
+        "spring": {
+          "cdd": 12.658
+        },
+        "summer": {
+          "cdd": 9.412
+        },
+        "winter": {
+          "cdd": 10.438
+        }
+      }
+    },
+    "1990": {
+      "obs": {
+        "annual": {
+          "cdd": 14.416
+        },
+        "fall": {
+          "cdd": 10.878
+        },
+        "spring": {
+          "cdd": 9.437
+        },
+        "summer": {
+          "cdd": 11.539
+        },
+        "winter": {
+          "cdd": 13.513
+        }
+      }
+    },
+    "1995": {
+      "obs": {
+        "annual": {
+          "cdd": 23.399
+        },
+        "fall": {
+          "cdd": 13.366
+        },
+        "spring": {
+          "cdd": 13.24
+        },
+        "summer": {
+          "cdd": 20.514
+        },
+        "winter": {
+          "cdd": 11.122
+        }
+      }
+    },
+    "2000": {
+      "obs": {
+        "annual": {
+          "cdd": 11.635
+        },
+        "fall": {
+          "cdd": 9.951
+        },
+        "spring": {
+          "cdd": 9.391
+        },
+        "summer": {
+          "cdd": 7.903
+        },
+        "winter": {
+          "cdd": 11.951
+        }
+      }
+    },
+    "2005": {
+      "obs": {
+        "annual": {
+          "cdd": 13.732
+        },
+        "fall": {
+          "cdd": 10.855
+        },
+        "spring": {
+          "cdd": 9.975
+        },
+        "summer": {
+          "cdd": 13.414
+        },
+        "winter": {
+          "cdd": 7.903
+        }
+      }
+    }
+  },
+  "Franklin": {
+    "1955": {
+      "obs": {
+        "annual": {
+          "cdd": 24.316
+        },
+        "fall": {
+          "cdd": 9.741
+        },
+        "spring": {
+          "cdd": 9.427
+        },
+        "summer": {
+          "cdd": 9.297
+        },
+        "winter": {
+          "cdd": 22.927
+        }
+      }
+    },
+    "1960": {
+      "obs": {
+        "annual": {
+          "cdd": 17.444
+        },
+        "fall": {
+          "cdd": 17.444
+        },
+        "spring": {
+          "cdd": 10.667
+        },
+        "summer": {
+          "cdd": 8.019
+        },
+        "winter": {
+          "cdd": 7.722
+        }
+      }
+    },
+    "1965": {
+      "obs": {
+        "annual": {
+          "cdd": 17.963
+        },
+        "fall": {
+          "cdd": 11.76
+        },
+        "spring": {
+          "cdd": 16.538
+        },
+        "summer": {
+          "cdd": 17.111
+        },
+        "winter": {
+          "cdd": 8.815
+        }
+      }
+    },
+    "1970": {
+      "obs": {
+        "annual": {
+          "cdd": 16.076
+        },
+        "fall": {
+          "cdd": 9.889
+        },
+        "spring": {
+          "cdd": 15.242
+        },
+        "summer": {
+          "cdd": 14.354
+        },
+        "winter": {
+          "cdd": 12.241
+        }
+      }
+    },
+    "1975": {
+      "obs": {
+        "annual": {
+          "cdd": 15.001
+        },
+        "fall": {
+          "cdd": 12.5
+        },
+        "spring": {
+          "cdd": 13.686
+        },
+        "summer": {
+          "cdd": 12.483
+        },
+        "winter": {
+          "cdd": 5.352
+        }
+      }
+    },
+    "1980": {
+      "obs": {
+        "annual": {
+          "cdd": 22.463
+        },
+        "fall": {
+          "cdd": 7.092
+        },
+        "spring": {
+          "cdd": 11.63
+        },
+        "summer": {
+          "cdd": 12.239
+        },
+        "winter": {
+          "cdd": 22.463
+        }
+      }
+    },
+    "1985": {
+      "obs": {
+        "annual": {
+          "cdd": 15.148
+        },
+        "fall": {
+          "cdd": 12.796
+        },
+        "spring": {
+          "cdd": 14.648
+        },
+        "summer": {
+          "cdd": 6.609
+        },
+        "winter": {
+          "cdd": 11.372
+        }
+      }
+    },
+    "1990": {
+      "obs": {
+        "annual": {
+          "cdd": 11.87
+        },
+        "fall": {
+          "cdd": 9.148
+        },
+        "spring": {
+          "cdd": 9.851
+        },
+        "summer": {
+          "cdd": 10.482
+        },
+        "winter": {
+          "cdd": 11.203
+        }
+      }
+    },
+    "1995": {
+      "obs": {
+        "annual": {
+          "cdd": 17.218
+        },
+        "fall": {
+          "cdd": 9.797
+        },
+        "spring": {
+          "cdd": 7.649
+        },
+        "summer": {
+          "cdd": 15.035
+        },
+        "winter": {
+          "cdd": 11
+        }
+      }
+    },
+    "2000": {
+      "obs": {
+        "annual": {
+          "cdd": 10.778
+        },
+        "fall": {
+          "cdd": 10.241
+        },
+        "spring": {
+          "cdd": 9.389
+        },
+        "summer": {
+          "cdd": 7.13
+        },
+        "winter": {
+          "cdd": 11.982
+        }
+      }
+    },
+    "2005": {
+      "obs": {
+        "annual": {
+          "cdd": 12.926
+        },
+        "fall": {
+          "cdd": 12.296
+        },
+        "spring": {
+          "cdd": 12.519
+        },
+        "summer": {
+          "cdd": 10.612
+        },
+        "winter": {
+          "cdd": 11.02
+        }
+      }
+    }
+  },
+  "Hampden": {
+    "1955": {
+      "obs": {
+        "annual": {
+          "cdd": 23.319
+        },
+        "fall": {
+          "cdd": 10.617
+        },
+        "spring": {
+          "cdd": 13.638
+        },
+        "summer": {
+          "cdd": 13.086
+        },
+        "winter": {
+          "cdd": 22.851
+        }
+      }
+    },
+    "1960": {
+      "obs": {
+        "annual": {
+          "cdd": 17.319
+        },
+        "fall": {
+          "cdd": 17.277
+        },
+        "spring": {
+          "cdd": 9.979
+        },
+        "summer": {
+          "cdd": 7.659
+        },
+        "winter": {
+          "cdd": 6.808
+        }
+      }
+    },
+    "1965": {
+      "obs": {
+        "annual": {
+          "cdd": 16.638
+        },
+        "fall": {
+          "cdd": 15.426
+        },
+        "spring": {
+          "cdd": 14.085
+        },
+        "summer": {
+          "cdd": 11.106
+        },
+        "winter": {
+          "cdd": 9
+        }
+      }
+    },
+    "1970": {
+      "obs": {
+        "annual": {
+          "cdd": 16.234
+        },
+        "fall": {
+          "cdd": 9.617
+        },
+        "spring": {
+          "cdd": 14.595
+        },
+        "summer": {
+          "cdd": 12.787
+        },
+        "winter": {
+          "cdd": 13.702
+        }
+      }
+    },
+    "1975": {
+      "obs": {
+        "annual": {
+          "cdd": 18.001
+        },
+        "fall": {
+          "cdd": 12.298
+        },
+        "spring": {
+          "cdd": 14.787
+        },
+        "summer": {
+          "cdd": 17.043
+        },
+        "winter": {
+          "cdd": 6.213
+        }
+      }
+    },
+    "1980": {
+      "obs": {
+        "annual": {
+          "cdd": 29.679
+        },
+        "fall": {
+          "cdd": 8.426
+        },
+        "spring": {
+          "cdd": 9.404
+        },
+        "summer": {
+          "cdd": 12.17
+        },
+        "winter": {
+          "cdd": 29.679
+        }
+      }
+    },
+    "1985": {
+      "obs": {
+        "annual": {
+          "cdd": 17
+        },
+        "fall": {
+          "cdd": 12.255
+        },
+        "spring": {
+          "cdd": 15.127
+        },
+        "summer": {
+          "cdd": 7.448
+        },
+        "winter": {
+          "cdd": 14.383
+        }
+      }
+    },
+    "1990": {
+      "obs": {
+        "annual": {
+          "cdd": 13.637
+        },
+        "fall": {
+          "cdd": 10.957
+        },
+        "spring": {
+          "cdd": 7.724
+        },
+        "summer": {
+          "cdd": 10.468
+        },
+        "winter": {
+          "cdd": 13.488
+        }
+      }
+    },
+    "1995": {
+      "obs": {
+        "annual": {
+          "cdd": 24.405
+        },
+        "fall": {
+          "cdd": 12.107
+        },
+        "spring": {
+          "cdd": 8.914
+        },
+        "summer": {
+          "cdd": 22.276
+        },
+        "winter": {
+          "cdd": 10.808
+        }
+      }
+    },
+    "2000": {
+      "obs": {
+        "annual": {
+          "cdd": 15.212
+        },
+        "fall": {
+          "cdd": 15.085
+        },
+        "spring": {
+          "cdd": 8.213
+        },
+        "summer": {
+          "cdd": 9.192
+        },
+        "winter": {
+          "cdd": 11.255
+        }
+      }
+    },
+    "2005": {
+      "obs": {
+        "annual": {
+          "cdd": 13.51
+        },
+        "fall": {
+          "cdd": 12.085
+        },
+        "spring": {
+          "cdd": 13.063
+        },
+        "summer": {
+          "cdd": 10.83
+        },
+        "winter": {
+          "cdd": 10.424
+        }
+      }
+    }
+  },
+  "Hampshire": {
+    "1955": {
+      "obs": {
+        "annual": {
+          "cdd": 24.048
+        },
+        "fall": {
+          "cdd": 10.294
+        },
+        "spring": {
+          "cdd": 16.049
+        },
+        "summer": {
+          "cdd": 13.074
+        },
+        "winter": {
+          "cdd": 23.634
+        }
+      }
+    },
+    "1960": {
+      "obs": {
+        "annual": {
+          "cdd": 17.171
+        },
+        "fall": {
+          "cdd": 17.171
+        },
+        "spring": {
+          "cdd": 9.708
+        },
+        "summer": {
+          "cdd": 7.829
+        },
+        "winter": {
+          "cdd": 7.317
+        }
+      }
+    },
+    "1965": {
+      "obs": {
+        "annual": {
+          "cdd": 16.464
+        },
+        "fall": {
+          "cdd": 14.221
+        },
+        "spring": {
+          "cdd": 13.634
+        },
+        "summer": {
+          "cdd": 13.9
+        },
+        "winter": {
+          "cdd": 9.049
+        }
+      }
+    },
+    "1970": {
+      "obs": {
+        "annual": {
+          "cdd": 16.805
+        },
+        "fall": {
+          "cdd": 9.781
+        },
+        "spring": {
+          "cdd": 15.439
+        },
+        "summer": {
+          "cdd": 13.804
+        },
+        "winter": {
+          "cdd": 12.147
+        }
+      }
+    },
+    "1975": {
+      "obs": {
+        "annual": {
+          "cdd": 15.562
+        },
+        "fall": {
+          "cdd": 12.829
+        },
+        "spring": {
+          "cdd": 14
+        },
+        "summer": {
+          "cdd": 15.415
+        },
+        "winter": {
+          "cdd": 6.049
+        }
+      }
+    },
+    "1980": {
+      "obs": {
+        "annual": {
+          "cdd": 24.709
+        },
+        "fall": {
+          "cdd": 7.415
+        },
+        "spring": {
+          "cdd": 10.658
+        },
+        "summer": {
+          "cdd": 13.197
+        },
+        "winter": {
+          "cdd": 24.709
+        }
+      }
+    },
+    "1985": {
+      "obs": {
+        "annual": {
+          "cdd": 16.195
+        },
+        "fall": {
+          "cdd": 12.683
+        },
+        "spring": {
+          "cdd": 15.902
+        },
+        "summer": {
+          "cdd": 6.414
+        },
+        "winter": {
+          "cdd": 12.732
+        }
+      }
+    },
+    "1990": {
+      "obs": {
+        "annual": {
+          "cdd": 13.856
+        },
+        "fall": {
+          "cdd": 10.683
+        },
+        "spring": {
+          "cdd": 8.146
+        },
+        "summer": {
+          "cdd": 11.073
+        },
+        "winter": {
+          "cdd": 14.075
+        }
+      }
+    },
+    "1995": {
+      "obs": {
+        "annual": {
+          "cdd": 17.858
+        },
+        "fall": {
+          "cdd": 10.294
+        },
+        "spring": {
+          "cdd": 10.732
+        },
+        "summer": {
+          "cdd": 17.491
+        },
+        "winter": {
+          "cdd": 11.146
+        }
+      }
+    },
+    "2000": {
+      "obs": {
+        "annual": {
+          "cdd": 12.66
+        },
+        "fall": {
+          "cdd": 11.464
+        },
+        "spring": {
+          "cdd": 9.56
+        },
+        "summer": {
+          "cdd": 7.928
+        },
+        "winter": {
+          "cdd": 12.171
+        }
+      }
+    },
+    "2005": {
+      "obs": {
+        "annual": {
+          "cdd": 13.683
+        },
+        "fall": {
+          "cdd": 12.195
+        },
+        "spring": {
+          "cdd": 13.488
+        },
+        "summer": {
+          "cdd": 10.024
+        },
+        "winter": {
+          "cdd": 12.122
+        }
+      }
+    }
+  },
+  "MA": {
+    "1955": {
+      "obs": {
+        "annual": {
+          "cdd": 22.165
+        },
+        "fall": {
+          "cdd": 12.781
+        },
+        "spring": {
+          "cdd": 12.722
+        },
+        "summer": {
+          "cdd": 11.352
+        },
+        "winter": {
+          "cdd": 20.971
+        }
+      }
+    },
+    "1960": {
+      "obs": {
+        "annual": {
+          "cdd": 17.426
+        },
+        "fall": {
+          "cdd": 16.789
+        },
+        "spring": {
+          "cdd": 10.695
+        },
+        "summer": {
+          "cdd": 9.989
+        },
+        "winter": {
+          "cdd": 7.128
+        }
+      }
+    },
+    "1965": {
+      "obs": {
+        "annual": {
+          "cdd": 17.908
+        },
+        "fall": {
+          "cdd": 16.11
+        },
+        "spring": {
+          "cdd": 14.437
+        },
+        "summer": {
+          "cdd": 12.959
+        },
+        "winter": {
+          "cdd": 8.744
+        }
+      }
+    },
+    "1970": {
+      "obs": {
+        "annual": {
+          "cdd": 15.415
+        },
+        "fall": {
+          "cdd": 10.109
+        },
+        "spring": {
+          "cdd": 13.595
+        },
+        "summer": {
+          "cdd": 13.22
+        },
+        "winter": {
+          "cdd": 11.86
+        }
+      }
+    },
+    "1975": {
+      "obs": {
+        "annual": {
+          "cdd": 18.463
+        },
+        "fall": {
+          "cdd": 11.802
+        },
+        "spring": {
+          "cdd": 14.125
+        },
+        "summer": {
+          "cdd": 17.772
+        },
+        "winter": {
+          "cdd": 5.525
+        }
+      }
+    },
+    "1980": {
+      "obs": {
+        "annual": {
+          "cdd": 24.304
+        },
+        "fall": {
+          "cdd": 9.755
+        },
+        "spring": {
+          "cdd": 8.947
+        },
+        "summer": {
+          "cdd": 12.039
+        },
+        "winter": {
+          "cdd": 22.618
+        }
+      }
+    },
+    "1985": {
+      "obs": {
+        "annual": {
+          "cdd": 15.596
+        },
+        "fall": {
+          "cdd": 12.421
+        },
+        "spring": {
+          "cdd": 13.66
+        },
+        "summer": {
+          "cdd": 8.953
+        },
+        "winter": {
+          "cdd": 12.33
+        }
+      }
+    },
+    "1990": {
+      "obs": {
+        "annual": {
+          "cdd": 14.652
+        },
+        "fall": {
+          "cdd": 10.855
+        },
+        "spring": {
+          "cdd": 8.413
+        },
+        "summer": {
+          "cdd": 11.26
+        },
+        "winter": {
+          "cdd": 12.626
+        }
+      }
+    },
+    "1995": {
+      "obs": {
+        "annual": {
+          "cdd": 25.113
+        },
+        "fall": {
+          "cdd": 11.879
+        },
+        "spring": {
+          "cdd": 9.392
+        },
+        "summer": {
+          "cdd": 20.181
+        },
+        "winter": {
+          "cdd": 11.173
+        }
+      }
+    },
+    "2000": {
+      "obs": {
+        "annual": {
+          "cdd": 12.36
+        },
+        "fall": {
+          "cdd": 10.958
+        },
+        "spring": {
+          "cdd": 9.242
+        },
+        "summer": {
+          "cdd": 8.77
+        },
+        "winter": {
+          "cdd": 12.201
+        }
+      }
+    },
+    "2005": {
+      "obs": {
+        "annual": {
+          "cdd": 14.866
+        },
+        "fall": {
+          "cdd": 12.557
+        },
+        "spring": {
+          "cdd": 11.845
+        },
+        "summer": {
+          "cdd": 12.98
+        },
+        "winter": {
+          "cdd": 8.804
+        }
+      }
+    }
+  },
+  "Middlesex": {
+    "1955": {
+      "obs": {
+        "annual": {
+          "cdd": 23.982
+        },
+        "fall": {
+          "cdd": 15.523
+        },
+        "spring": {
+          "cdd": 12.848
+        },
+        "summer": {
+          "cdd": 11.606
+        },
+        "winter": {
+          "cdd": 23.186
+        }
+      }
+    },
+    "1960": {
+      "obs": {
+        "annual": {
+          "cdd": 17.866
+        },
+        "fall": {
+          "cdd": 17.27
+        },
+        "spring": {
+          "cdd": 10.831
+        },
+        "summer": {
+          "cdd": 10.852
+        },
+        "winter": {
+          "cdd": 8.287
+        }
+      }
+    },
+    "1965": {
+      "obs": {
+        "annual": {
+          "cdd": 18.545
+        },
+        "fall": {
+          "cdd": 18.071
+        },
+        "spring": {
+          "cdd": 14.288
+        },
+        "summer": {
+          "cdd": 12.765
+        },
+        "winter": {
+          "cdd": 8.796
+        }
+      }
+    },
+    "1970": {
+      "obs": {
+        "annual": {
+          "cdd": 13.813
+        },
+        "fall": {
+          "cdd": 10.102
+        },
+        "spring": {
+          "cdd": 12.2
+        },
+        "summer": {
+          "cdd": 10.629
+        },
+        "winter": {
+          "cdd": 11.492
+        }
+      }
+    },
+    "1975": {
+      "obs": {
+        "annual": {
+          "cdd": 20.964
+        },
+        "fall": {
+          "cdd": 12.237
+        },
+        "spring": {
+          "cdd": 13.867
+        },
+        "summer": {
+          "cdd": 20.93
+        },
+        "winter": {
+          "cdd": 5.034
+        }
+      }
+    },
+    "1980": {
+      "obs": {
+        "annual": {
+          "cdd": 23.001
+        },
+        "fall": {
+          "cdd": 10.644
+        },
+        "spring": {
+          "cdd": 7.423
+        },
+        "summer": {
+          "cdd": 9.781
+        },
+        "winter": {
+          "cdd": 22.865
+        }
+      }
+    },
+    "1985": {
+      "obs": {
+        "annual": {
+          "cdd": 15.559
+        },
+        "fall": {
+          "cdd": 13.051
+        },
+        "spring": {
+          "cdd": 12.067
+        },
+        "summer": {
+          "cdd": 8.626
+        },
+        "winter": {
+          "cdd": 10.51
+        }
+      }
+    },
+    "1990": {
+      "obs": {
+        "annual": {
+          "cdd": 15.188
+        },
+        "fall": {
+          "cdd": 10.528
+        },
+        "spring": {
+          "cdd": 8.676
+        },
+        "summer": {
+          "cdd": 11.799
+        },
+        "winter": {
+          "cdd": 12.881
+        }
+      }
+    },
+    "1995": {
+      "obs": {
+        "annual": {
+          "cdd": 34.379
+        },
+        "fall": {
+          "cdd": 13.288
+        },
+        "spring": {
+          "cdd": 11.471
+        },
+        "summer": {
+          "cdd": 22.859
+        },
+        "winter": {
+          "cdd": 11.814
+        }
+      }
+    },
+    "2000": {
+      "obs": {
+        "annual": {
+          "cdd": 11.476
+        },
+        "fall": {
+          "cdd": 10.017
+        },
+        "spring": {
+          "cdd": 8.916
+        },
+        "summer": {
+          "cdd": 8.882
+        },
+        "winter": {
+          "cdd": 11.78
+        }
+      }
+    },
+    "2005": {
+      "obs": {
+        "annual": {
+          "cdd": 14.713
+        },
+        "fall": {
+          "cdd": 12.983
+        },
+        "spring": {
+          "cdd": 10.983
+        },
+        "summer": {
+          "cdd": 13.003
+        },
+        "winter": {
+          "cdd": 7.119
+        }
+      }
+    }
+  },
+  "Nantucket": {
+    "1955": {
+      "obs": {
+        "annual": {
+          "cdd": 12
+        },
+        "fall": {
+          "cdd": 8
+        },
+        "spring": {
+          "cdd": 8
+        },
+        "summer": {
+          "cdd": 12
+        },
+        "winter": {
+          "cdd": 9
+        }
+      }
+    },
+    "1960": {
+      "obs": {
+        "annual": {
+          "cdd": 15
+        },
+        "fall": {
+          "cdd": 13
+        },
+        "spring": {
+          "cdd": 13
+        },
+        "summer": {
+          "cdd": 12
+        },
+        "winter": {
+          "cdd": 6
+        }
+      }
+    },
+    "1965": {
+      "obs": {
+        "annual": {
+          "cdd": 26
+        },
+        "fall": {
+          "cdd": 26
+        },
+        "spring": {
+          "cdd": 12
+        },
+        "summer": {
+          "cdd": 21
+        },
+        "winter": {
+          "cdd": 9
+        }
+      }
+    },
+    "1970": {
+      "obs": {
+        "annual": {
+          "cdd": 14.5
+        },
+        "fall": {
+          "cdd": 11
+        },
+        "spring": {
+          "cdd": 11.499
+        },
+        "summer": {
+          "cdd": 14
+        },
+        "winter": {
+          "cdd": 11
+        }
+      }
+    },
+    "1975": {
+      "obs": {
+        "annual": {
+          "cdd": 18.25
+        },
+        "fall": {
+          "cdd": 11
+        },
+        "spring": {
+          "cdd": 13.25
+        },
+        "summer": {
+          "cdd": 18.25
+        },
+        "winter": {
+          "cdd": 6
+        }
+      }
+    },
+    "1980": {
+      "obs": {
+        "annual": {
+          "cdd": 23.25
+        },
+        "fall": {
+          "cdd": 15.75
+        },
+        "spring": {
+          "cdd": 8
+        },
+        "summer": {
+          "cdd": 22
+        },
+        "winter": {
+          "cdd": 23.25
+        }
+      }
+    },
+    "1985": {
+      "obs": {
+        "annual": {
+          "cdd": 16
+        },
+        "fall": {
+          "cdd": 13
+        },
+        "spring": {
+          "cdd": 12
+        },
+        "summer": {
+          "cdd": 16
+        },
+        "winter": {
+          "cdd": 15
+        }
+      }
+    },
+    "1990": {
+      "obs": {
+        "annual": {
+          "cdd": 15.999
+        },
+        "fall": {
+          "cdd": 10.749
+        },
+        "spring": {
+          "cdd": 8
+        },
+        "summer": {
+          "cdd": 11
+        },
+        "winter": {
+          "cdd": 14
+        }
+      }
+    },
+    "1995": {
+      "obs": {
+        "annual": {
+          "cdd": 36
+        },
+        "fall": {
+          "cdd": 12
+        },
+        "spring": {
+          "cdd": 13.25
+        },
+        "summer": {
+          "cdd": 24
+        },
+        "winter": {
+          "cdd": 11
+        }
+      }
+    },
+    "2000": {
+      "obs": {
+        "annual": {
+          "cdd": 12
+        },
+        "fall": {
+          "cdd": 7.75
+        },
+        "spring": {
+          "cdd": 10
+        },
+        "summer": {
+          "cdd": 7
+        },
+        "winter": {
+          "cdd": 12
+        }
+      }
+    },
+    "2005": {
+      "obs": {
+        "annual": {
+          "cdd": 27.75
+        },
+        "fall": {
+          "cdd": 14
+        },
+        "spring": {
+          "cdd": 14
+        },
+        "summer": {
+          "cdd": 26.75
+        },
+        "winter": {
+          "cdd": 6.75
+        }
+      }
+    }
+  },
+  "Norfolk": {
+    "1955": {
+      "obs": {
+        "annual": {
+          "cdd": 23.7
+        },
+        "fall": {
+          "cdd": 12.766
+        },
+        "spring": {
+          "cdd": 13.366
+        },
+        "summer": {
+          "cdd": 8.7
+        },
+        "winter": {
+          "cdd": 23.7
+        }
+      }
+    },
+    "1960": {
+      "obs": {
+        "annual": {
+          "cdd": 19.268
+        },
+        "fall": {
+          "cdd": 16.633
+        },
+        "spring": {
+          "cdd": 11.3
+        },
+        "summer": {
+          "cdd": 16.635
+        },
+        "winter": {
+          "cdd": 6.3
+        }
+      }
+    },
+    "1965": {
+      "obs": {
+        "annual": {
+          "cdd": 19.8
+        },
+        "fall": {
+          "cdd": 18.866
+        },
+        "spring": {
+          "cdd": 17.468
+        },
+        "summer": {
+          "cdd": 13.933
+        },
+        "winter": {
+          "cdd": 10.033
+        }
+      }
+    },
+    "1970": {
+      "obs": {
+        "annual": {
+          "cdd": 14.966
+        },
+        "fall": {
+          "cdd": 9.933
+        },
+        "spring": {
+          "cdd": 11.034
+        },
+        "summer": {
+          "cdd": 14.765
+        },
+        "winter": {
+          "cdd": 11
+        }
+      }
+    },
+    "1975": {
+      "obs": {
+        "annual": {
+          "cdd": 19.699
+        },
+        "fall": {
+          "cdd": 12.166
+        },
+        "spring": {
+          "cdd": 15.535
+        },
+        "summer": {
+          "cdd": 18.665
+        },
+        "winter": {
+          "cdd": 5.267
+        }
+      }
+    },
+    "1980": {
+      "obs": {
+        "annual": {
+          "cdd": 24.1
+        },
+        "fall": {
+          "cdd": 13.201
+        },
+        "spring": {
+          "cdd": 7.701
+        },
+        "summer": {
+          "cdd": 9.134
+        },
+        "winter": {
+          "cdd": 22.066
+        }
+      }
+    },
+    "1985": {
+      "obs": {
+        "annual": {
+          "cdd": 15.1
+        },
+        "fall": {
+          "cdd": 12.667
+        },
+        "spring": {
+          "cdd": 12.2
+        },
+        "summer": {
+          "cdd": 9.802
+        },
+        "winter": {
+          "cdd": 12.201
+        }
+      }
+    },
+    "1990": {
+      "obs": {
+        "annual": {
+          "cdd": 19.634
+        },
+        "fall": {
+          "cdd": 13.867
+        },
+        "spring": {
+          "cdd": 8
+        },
+        "summer": {
+          "cdd": 12.3
+        },
+        "winter": {
+          "cdd": 12.033
+        }
+      }
+    },
+    "1995": {
+      "obs": {
+        "annual": {
+          "cdd": 18.433
+        },
+        "fall": {
+          "cdd": 14.366
+        },
+        "spring": {
+          "cdd": 8.333
+        },
+        "summer": {
+          "cdd": 13.967
+        },
+        "winter": {
+          "cdd": 11.667
+        }
+      }
+    },
+    "2000": {
+      "obs": {
+        "annual": {
+          "cdd": 12.367
+        },
+        "fall": {
+          "cdd": 10.033
+        },
+        "spring": {
+          "cdd": 10.167
+        },
+        "summer": {
+          "cdd": 10.235
+        },
+        "winter": {
+          "cdd": 12.467
+        }
+      }
+    },
+    "2005": {
+      "obs": {
+        "annual": {
+          "cdd": 15.365
+        },
+        "fall": {
+          "cdd": 12.9
+        },
+        "spring": {
+          "cdd": 11.1
+        },
+        "summer": {
+          "cdd": 14.499
+        },
+        "winter": {
+          "cdd": 7.367
+        }
+      }
+    }
+  },
+  "Plymouth": {
+    "1955": {
+      "obs": {
+        "annual": {
+          "cdd": 19.846
+        },
+        "fall": {
+          "cdd": 15.511
+        },
+        "spring": {
+          "cdd": 12.735
+        },
+        "summer": {
+          "cdd": 12.117
+        },
+        "winter": {
+          "cdd": 19.373
+        }
+      }
+    },
+    "1960": {
+      "obs": {
+        "annual": {
+          "cdd": 16.922
+        },
+        "fall": {
+          "cdd": 16.847
+        },
+        "spring": {
+          "cdd": 11
+        },
+        "summer": {
+          "cdd": 10.413
+        },
+        "winter": {
+          "cdd": 6.076
+        }
+      }
+    },
+    "1965": {
+      "obs": {
+        "annual": {
+          "cdd": 18.887
+        },
+        "fall": {
+          "cdd": 18.511
+        },
+        "spring": {
+          "cdd": 14.276
+        },
+        "summer": {
+          "cdd": 12.715
+        },
+        "winter": {
+          "cdd": 8.187
+        }
+      }
+    },
+    "1970": {
+      "obs": {
+        "annual": {
+          "cdd": 15.51
+        },
+        "fall": {
+          "cdd": 10.095
+        },
+        "spring": {
+          "cdd": 13.911
+        },
+        "summer": {
+          "cdd": 12.697
+        },
+        "winter": {
+          "cdd": 10.509
+        }
+      }
+    },
+    "1975": {
+      "obs": {
+        "annual": {
+          "cdd": 18.207
+        },
+        "fall": {
+          "cdd": 9.054
+        },
+        "spring": {
+          "cdd": 15.981
+        },
+        "summer": {
+          "cdd": 17.698
+        },
+        "winter": {
+          "cdd": 4.604
+        }
+      }
+    },
+    "1980": {
+      "obs": {
+        "annual": {
+          "cdd": 23.471
+        },
+        "fall": {
+          "cdd": 13.641
+        },
+        "spring": {
+          "cdd": 7.303
+        },
+        "summer": {
+          "cdd": 15.321
+        },
+        "winter": {
+          "cdd": 15.582
+        }
+      }
+    },
+    "1985": {
+      "obs": {
+        "annual": {
+          "cdd": 16.661
+        },
+        "fall": {
+          "cdd": 12.586
+        },
+        "spring": {
+          "cdd": 15.398
+        },
+        "summer": {
+          "cdd": 12.997
+        },
+        "winter": {
+          "cdd": 12.982
+        }
+      }
+    },
+    "1990": {
+      "obs": {
+        "annual": {
+          "cdd": 16.147
+        },
+        "fall": {
+          "cdd": 12.092
+        },
+        "spring": {
+          "cdd": 8.171
+        },
+        "summer": {
+          "cdd": 10.432
+        },
+        "winter": {
+          "cdd": 11.924
+        }
+      }
+    },
+    "1995": {
+      "obs": {
+        "annual": {
+          "cdd": 25.94
+        },
+        "fall": {
+          "cdd": 12.094
+        },
+        "spring": {
+          "cdd": 9.625
+        },
+        "summer": {
+          "cdd": 21.081
+        },
+        "winter": {
+          "cdd": 11.094
+        }
+      }
+    },
+    "2000": {
+      "obs": {
+        "annual": {
+          "cdd": 12.434
+        },
+        "fall": {
+          "cdd": 9.962
+        },
+        "spring": {
+          "cdd": 9.718
+        },
+        "summer": {
+          "cdd": 9.852
+        },
+        "winter": {
+          "cdd": 12.943
+        }
+      }
+    },
+    "2005": {
+      "obs": {
+        "annual": {
+          "cdd": 17.177
+        },
+        "fall": {
+          "cdd": 12.662
+        },
+        "spring": {
+          "cdd": 11.829
+        },
+        "summer": {
+          "cdd": 16.763
+        },
+        "winter": {
+          "cdd": 7.018
+        }
+      }
+    }
+  },
+  "Suffolk": {
+    "1955": {
+      "obs": {
+        "annual": {
+          "cdd": 23.667
+        },
+        "fall": {
+          "cdd": 16.666
+        },
+        "spring": {
+          "cdd": 11
+        },
+        "summer": {
+          "cdd": 8.999
+        },
+        "winter": {
+          "cdd": 23.667
+        }
+      }
+    },
+    "1960": {
+      "obs": {
+        "annual": {
+          "cdd": 17
+        },
+        "fall": {
+          "cdd": 17
+        },
+        "spring": {
+          "cdd": 11.167
+        },
+        "summer": {
+          "cdd": 11.333
+        },
+        "winter": {
+          "cdd": 6
+        }
+      }
+    },
+    "1965": {
+      "obs": {
+        "annual": {
+          "cdd": 21
+        },
+        "fall": {
+          "cdd": 21
+        },
+        "spring": {
+          "cdd": 13.999
+        },
+        "summer": {
+          "cdd": 15
+        },
+        "winter": {
+          "cdd": 9.835
+        }
+      }
+    },
+    "1970": {
+      "obs": {
+        "annual": {
+          "cdd": 15.335
+        },
+        "fall": {
+          "cdd": 10
+        },
+        "spring": {
+          "cdd": 10.333
+        },
+        "summer": {
+          "cdd": 15.335
+        },
+        "winter": {
+          "cdd": 10.5
+        }
+      }
+    },
+    "1975": {
+      "obs": {
+        "annual": {
+          "cdd": 20.333
+        },
+        "fall": {
+          "cdd": 12.5
+        },
+        "spring": {
+          "cdd": 12.5
+        },
+        "summer": {
+          "cdd": 20.333
+        },
+        "winter": {
+          "cdd": 5.167
+        }
+      }
+    },
+    "1980": {
+      "obs": {
+        "annual": {
+          "cdd": 24.167
+        },
+        "fall": {
+          "cdd": 8.834
+        },
+        "spring": {
+          "cdd": 7
+        },
+        "summer": {
+          "cdd": 9.666
+        },
+        "winter": {
+          "cdd": 24.167
+        }
+      }
+    },
+    "1985": {
+      "obs": {
+        "annual": {
+          "cdd": 15.501
+        },
+        "fall": {
+          "cdd": 12.5
+        },
+        "spring": {
+          "cdd": 12.333
+        },
+        "summer": {
+          "cdd": 7
+        },
+        "winter": {
+          "cdd": 11.001
+        }
+      }
+    },
+    "1990": {
+      "obs": {
+        "annual": {
+          "cdd": 16.668
+        },
+        "fall": {
+          "cdd": 12.001
+        },
+        "spring": {
+          "cdd": 8
+        },
+        "summer": {
+          "cdd": 13.666
+        },
+        "winter": {
+          "cdd": 11.667
+        }
+      }
+    },
+    "1995": {
+      "obs": {
+        "annual": {
+          "cdd": 24.495
+        },
+        "fall": {
+          "cdd": 13
+        },
+        "spring": {
+          "cdd": 8.333
+        },
+        "summer": {
+          "cdd": 19.164
+        },
+        "winter": {
+          "cdd": 12.167
+        }
+      }
+    },
+    "2000": {
+      "obs": {
+        "annual": {
+          "cdd": 11.334
+        },
+        "fall": {
+          "cdd": 10
+        },
+        "spring": {
+          "cdd": 10
+        },
+        "summer": {
+          "cdd": 7.834
+        },
+        "winter": {
+          "cdd": 12.167
+        }
+      }
+    },
+    "2005": {
+      "obs": {
+        "annual": {
+          "cdd": 14.501
+        },
+        "fall": {
+          "cdd": 13
+        },
+        "spring": {
+          "cdd": 10.834
+        },
+        "summer": {
+          "cdd": 14.001
+        },
+        "winter": {
+          "cdd": 7.833
+        }
+      }
+    }
+  },
+  "Worcester": {
+    "1955": {
+      "obs": {
+        "annual": {
+          "cdd": 24.152
+        },
+        "fall": {
+          "cdd": 13.026
+        },
+        "spring": {
+          "cdd": 11.564
+        },
+        "summer": {
+          "cdd": 9.639
+        },
+        "winter": {
+          "cdd": 23.357
+        }
+      }
+    },
+    "1960": {
+      "obs": {
+        "annual": {
+          "cdd": 18.027
+        },
+        "fall": {
+          "cdd": 17.374
+        },
+        "spring": {
+          "cdd": 10.893
+        },
+        "summer": {
+          "cdd": 9.387
+        },
+        "winter": {
+          "cdd": 7.861
+        }
+      }
+    },
+    "1965": {
+      "obs": {
+        "annual": {
+          "cdd": 18.484
+        },
+        "fall": {
+          "cdd": 15.783
+        },
+        "spring": {
+          "cdd": 16.642
+        },
+        "summer": {
+          "cdd": 12.803
+        },
+        "winter": {
+          "cdd": 7.23
+        }
+      }
+    },
+    "1970": {
+      "obs": {
+        "annual": {
+          "cdd": 14.685
+        },
+        "fall": {
+          "cdd": 10.009
+        },
+        "spring": {
+          "cdd": 12.942
+        },
+        "summer": {
+          "cdd": 13.509
+        },
+        "winter": {
+          "cdd": 11.304
+        }
+      }
+    },
+    "1975": {
+      "obs": {
+        "annual": {
+          "cdd": 20.688
+        },
+        "fall": {
+          "cdd": 12.83
+        },
+        "spring": {
+          "cdd": 13.68
+        },
+        "summer": {
+          "cdd": 20.67
+        },
+        "winter": {
+          "cdd": 5.456
+        }
+      }
+    },
+    "1980": {
+      "obs": {
+        "annual": {
+          "cdd": 24.376
+        },
+        "fall": {
+          "cdd": 9.469
+        },
+        "spring": {
+          "cdd": 9.598
+        },
+        "summer": {
+          "cdd": 10.365
+        },
+        "winter": {
+          "cdd": 24.089
+        }
+      }
+    },
+    "1985": {
+      "obs": {
+        "annual": {
+          "cdd": 13.581
+        },
+        "fall": {
+          "cdd": 12.562
+        },
+        "spring": {
+          "cdd": 12.241
+        },
+        "summer": {
+          "cdd": 7.903
+        },
+        "winter": {
+          "cdd": 11.502
+        }
+      }
+    },
+    "1990": {
+      "obs": {
+        "annual": {
+          "cdd": 14.092
+        },
+        "fall": {
+          "cdd": 9.735
+        },
+        "spring": {
+          "cdd": 8.106
+        },
+        "summer": {
+          "cdd": 12.271
+        },
+        "winter": {
+          "cdd": 12.572
+        }
+      }
+    },
+    "1995": {
+      "obs": {
+        "annual": {
+          "cdd": 26.443
+        },
+        "fall": {
+          "cdd": 13.512
+        },
+        "spring": {
+          "cdd": 7.661
+        },
+        "summer": {
+          "cdd": 20.412
+        },
+        "winter": {
+          "cdd": 11.285
+        }
+      }
+    },
+    "2000": {
+      "obs": {
+        "annual": {
+          "cdd": 11.325
+        },
+        "fall": {
+          "cdd": 10.089
+        },
+        "spring": {
+          "cdd": 9.118
+        },
+        "summer": {
+          "cdd": 9.041
+        },
+        "winter": {
+          "cdd": 11.779
+        }
+      }
+    },
+    "2005": {
+      "obs": {
+        "annual": {
+          "cdd": 13.055
+        },
+        "fall": {
+          "cdd": 12.849
+        },
+        "spring": {
+          "cdd": 11.062
+        },
+        "summer": {
+          "cdd": 10.868
+        },
+        "winter": {
+          "cdd": 7.018
+        }
+      }
+    }
+  }
+}
