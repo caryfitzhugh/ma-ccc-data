@@ -161,6 +161,7 @@ const reduce_file = (memo, metric, filename) => {
     Object.keys(row).forEach((key) => {
       let root = key;
       let value = parseFloat(parseFloat(row[key]).toFixed(3));
+
       if (!isNaN(value)) {
         let attr_path = [root, year, scenario, season, metric];
         setPath(rmemo, attr_path, value);
@@ -179,9 +180,11 @@ const collect = (outfile, path_prefix, mappings) => {
 
     let files = glob.sync(dirpath);
     // Loop over each of these files
+    //console.log(outfile, path_prefix, prefix, files, metric);
     files.forEach((map_file) => {
       reduce_file(result, metric, map_file);
     });
+    //console.log(JSON.stringify(result));
   });
   return result;
 };
@@ -208,6 +211,7 @@ Object.keys(file_map).forEach((filename) => {
   writeout(filename, avg_data[filename]);
 }, {});
 
+//console.log(JSON.stringify(yr_data, null, 2));
 // Now do conversion for Datagraher
 datagrapher_files().forEach((file_spec) => {
   let type = file_spec[0];
@@ -221,10 +225,11 @@ datagrapher_files().forEach((file_spec) => {
 
   let data = null;
   if (type === 1) {
-    data  = avg_data[data_sel];
+    data  = yr_data[data_sel];
   } else {
     data = avg_data[data_sel];
   }
+
   // Location
   Object.keys(data).forEach((location) => {
     let loc_data = data[location];
@@ -243,11 +248,12 @@ datagrapher_files().forEach((file_spec) => {
       }), function(v) { return !_.isNil(v); });
 
       if (metric_data.length > 0) {
+        //console.log(year, location, datagrapher_location_map[location], metric_data);
         setPath(year_results, [year, datagrapher_location_map[location]], metric_data);
       }
     });
   });
-
+  //console.log("Years:", Object.keys(year_results));
   let result = Object.keys(year_results).map((year) => {
     return [year, year_results[year]];
   });
