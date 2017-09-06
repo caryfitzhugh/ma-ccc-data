@@ -7,6 +7,7 @@ const fs = require('fs');
 
 const input_path = process.argv[2];
 const output_path = process.argv[3];
+const input_path_yr1 = process.argv[4];
 
 const file_map = {
     "temperature": {
@@ -30,6 +31,9 @@ const file_map = {
     },
     "precipitation" : {
       "PRCPTOT": 'tot',
+    },
+    'consecutive_dry_days': {
+      'CDD' : 'cdd',
     },
     "precip_events": {
       "R1in" : 'gt1in',
@@ -74,8 +78,8 @@ const datagrapher_files = () => {
                   ['avgt', 'temperature', 'tavg'],
                   ['pcpn', 'precipitation', 'tot'],
                   ['gdd50', 'degree_days', 'g'],
-                  ['hdd50', 'degree_days', 'h'],
-                  ['cdd50', 'degree_days', 'c'],
+                  ['hdd65', 'degree_days', 'h'],
+                  ['cdd65', 'degree_days', 'c'],
                   ['tx90', 'above_temp_thresholds', 'gt90'],
                   ['tx95', 'above_temp_thresholds', 'gt95'],
                   ['tx100', 'above_temp_thresholds', 'gt100'],
@@ -88,10 +92,10 @@ const datagrapher_files = () => {
   metrics.forEach((metric) => {
     seasons.forEach((season) => {
       metrics.forEach((metric) => {
-        all_files.push([`observed_state_${metric[0]}_${season[0]}`,
+        all_files.push([1, `observed_${metric[0]}_${season[0]}`,
                           metric[1], ['obs'], season[1], metric[2]]);
 
-        all_files.push([`projected_state_${metric[0]}_${season[0]}`,
+        all_files.push([5, `projected_${metric[0]}_${season[0]}`,
                           metric[1], ['min','med','max'], season[1], metric[2]]);
       });
     });
@@ -166,12 +170,12 @@ const reduce_file = (memo, metric, filename) => {
   }, memo)
 };
 
-const collect = (outfile, mappings) => {
+const collect = (outfile, path_prefix, mappings) => {
   let result = {};
   // Start with each mapping
   Object.keys(mappings).forEach( (prefix) => {
     let metric = mappings[prefix];
-    let dirpath = path.join(input_path, `${prefix}.*.csv`);
+    let dirpath = path.join(path_prefix, `${prefix}.*.csv`);
 
     let files = glob.sync(dirpath);
     // Loop over each of these files
@@ -179,35 +183,53 @@ const collect = (outfile, mappings) => {
       reduce_file(result, metric, map_file);
     });
   });
-
-  let output_filename = path.join(output_path, outfile +".json")
-  stripped_result = strip_years(_.cloneDeep(result), 5);
-  fs.writeFileSync(output_filename, JSON.stringify(stripped_result, null, 2));
   return result;
 };
 
-let all_data = Object.keys(file_map).reduce((memo, filename) => {
-  memo[filename] = collect(filename, file_map[filename]);
+let avg_data = Object.keys(file_map).reduce((memo, filename) => {
+  memo[filename] = collect(filename, input_path, file_map[filename]);
   return memo;
+}, {});
+
+let yr_data = Object.keys(file_map).reduce((memo, filename) => {
+  memo[filename] = collect(filename, input_path_yr1, file_map[filename]);
+  return memo;
+},{});
+
+
+const writeout = (outfile, result) => {
+  let output_filename = path.join(output_path, outfile +".json")
+  stripped_result = strip_years(_.cloneDeep(result), 5);
+  fs.writeFileSync(output_filename, JSON.stringify(stripped_result, null, 2));
+  console.log("wrote:", outfile);
+};
+
+Object.keys(file_map).forEach((filename) => {
+  writeout(filename, avg_data[filename]);
 }, {});
 
 // Now do conversion for Datagraher
 datagrapher_files().forEach((file_spec) => {
-  let filename = file_spec[0];
-  let data_sel = file_spec[1];
-  let source_sel = file_spec[2];
-  let season_sel = file_spec[3];
+  let type = file_spec[0];
+  let filename = file_spec[1];
+  let data_sel = file_spec[2];
+  let source_sel = file_spec[3];
+  let season_sel = file_spec[4];
   let season_spec = datagrapher_seasons[season_sel];
-  let metric_sel = file_spec[4];
+  let metric_sel = file_spec[5];
   let year_results = {};
 
-  let data = all_data[data_sel];
-
+  let data = null;
+  if (type === 1) {
+    data  = avg_data[data_sel];
+  } else {
+    data = avg_data[data_sel];
+  }
   // Location
   Object.keys(data).forEach((location) => {
     let loc_data = data[location];
     Object.keys(loc_data).forEach((year) => {
-      let metric_data = _.compact(source_sel.map((sel) => {
+      let metric_data = _.filter(source_sel.map((sel) => {
         let year_data = loc_data[year][sel];
         if (year_data) {
           let season_data = year_data[season_sel];
@@ -218,7 +240,7 @@ datagrapher_files().forEach((file_spec) => {
           }
         }
         return null;
-      }));
+      }), function(v) { return !_.isNil(v); });
 
       if (metric_data.length > 0) {
         setPath(year_results, [year, datagrapher_location_map[location]], metric_data);
@@ -230,7 +252,7 @@ datagrapher_files().forEach((file_spec) => {
     return [year, year_results[year]];
   });
 
-  let output_filename = path.join(output_path, filename);
+  let output_filename = path.join(output_path, 'datagrapher', filename);
   fs.writeFileSync(output_filename, JSON.stringify({data: result}, null, 2));
-  console.log("wrote:", output_filename);
+  console.log("wrote:", type, output_filename);
 });
