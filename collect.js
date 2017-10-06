@@ -64,7 +64,34 @@ const datagrapher_location_map = {
   "Suffolk": "25025",
   "Barnstable": "25001",
   "Norfolk": "25021",
-  "Nantucket": "25019"
+  "Nantucket": "25019",
+  // Basins
+  "Blackstone": "Blackstone",
+  "Boston Harbor": "Boston Harbor",
+  "Buzzards Bay": "Buzzards Bay",
+  "Cape Cod": "Cape Cod",
+  "Charles": "Charles",
+  "Chicopee": "Chicopee",
+  "Connecticut": "Connecticut",
+  "Deerfield": "Deerfield",
+  "Farmington": "Farmington",
+  "French": "French",
+  "Housatonic": "Housatonic",
+  "Hudson":"Hudson",
+  "Ipswich": "Ipswich",
+  "Merrimack": "Merrimack",
+  "Millers": "Millers",
+  "Narragansett Bay & Mt. Hope Bay Shore": "Narragansett",
+  "Nashua": "Nashua",
+  "North Coastal": "North Coastal",
+  "Parker": "Parker",
+  "Quinebaug": "Quinebaug",
+  "Shawsheen": "Shawsheen",
+  "South Coastal": "South Coastal",
+  "SuAsCo":"SuAsCo",
+  "Taunton":"Taunton",
+  "Ten Mile":"Ten Mile",
+  "Westfield":"Westfield",
 };
 const datagrapher_files = () => {
   let all_files = [];
@@ -176,7 +203,7 @@ const collect = (outfile, path_prefix, mappings) => {
   // Start with each mapping
   Object.keys(mappings).forEach( (prefix) => {
     let metric = mappings[prefix];
-    let dirpath = path.join(path_prefix, `${prefix}.*.csv`);
+    let dirpath = path.join(path_prefix,"**", `${prefix}.*.csv`);
 
     let files = glob.sync(dirpath);
     // Loop over each of these files
@@ -203,8 +230,11 @@ let yr_data = Object.keys(file_map).reduce((memo, filename) => {
 const writeout = (outfile, result) => {
   let output_filename = path.join(output_path, outfile +".json")
   stripped_result = strip_years(_.cloneDeep(result), 5);
+  console.log('writing...', Object.keys(result));
+  console.log(outfile);
   fs.writeFileSync(output_filename, JSON.stringify(stripped_result, null, 2));
-  console.log("wrote:", outfile);
+  //console.log("JSON.stringify(result));
+  //console.log(, outfile);
 };
 
 Object.keys(file_map).forEach((filename) => {
@@ -260,5 +290,5 @@ datagrapher_files().forEach((file_spec) => {
 
   let output_filename = path.join(output_path, 'datagrapher', filename);
   fs.writeFileSync(output_filename, JSON.stringify({data: result}, null, 2));
-  console.log("wrote:", type, output_filename);
+  //console.log("wrote:", type, output_filename);
 });

@@ -45,6 +45,84 @@
         "25027": [
           4.862
         ],
+        "Blackstone": [
+          2.916
+        ],
+        "Boston Harbor": [
+          0.906
+        ],
+        "Buzzards Bay": [
+          0.592
+        ],
+        "Cape Cod": [
+          0.357
+        ],
+        "Charles": [
+          2.306
+        ],
+        "Chicopee": [
+          5.772
+        ],
+        "Connecticut": [
+          6.104
+        ],
+        "Deerfield": [
+          10.369
+        ],
+        "Farmington": [
+          7.599
+        ],
+        "French": [
+          3.11
+        ],
+        "Housatonic": [
+          8.525
+        ],
+        "Hudson": [
+          10.07
+        ],
+        "Ipswich": [
+          0.667
+        ],
+        "Merrimack": [
+          3.223
+        ],
+        "Millers": [
+          7.904
+        ],
+        "Narragansett": [
+          0
+        ],
+        "Nashua": [
+          4.666
+        ],
+        "North Coastal": [
+          0.077
+        ],
+        "Parker": [
+          1.375
+        ],
+        "Quinebaug": [
+          4.428
+        ],
+        "Shawsheen": [
+          1.399
+        ],
+        "South Coastal": [
+          1
+        ],
+        "SuAsCo": [
+          3.134
+        ],
+        "Taunton": [
+          0.736
+        ],
+        "Ten Mile": [
+          0.75
+        ],
+        "Westfield": [
+          8.072
+        ],
         "MA": [
           4.222
         ]
@@ -94,6 +172,84 @@
         ],
         "25027": [
           4.46
+        ],
+        "Blackstone": [
+          2.666
+        ],
+        "Boston Harbor": [
+          1.334
+        ],
+        "Buzzards Bay": [
+          0.074
+        ],
+        "Cape Cod": [
+          0
+        ],
+        "Charles": [
+          2.044
+        ],
+        "Chicopee": [
+          5.452
+        ],
+        "Connecticut": [
+          6.147
+        ],
+        "Deerfield": [
+          11.108
+        ],
+        "Farmington": [
+          7.699
+        ],
+        "French": [
+          2.888
+        ],
+        "Housatonic": [
+          8.581
+        ],
+        "Hudson": [
+          12.64
+        ],
+        "Ipswich": [
+          1.417
+        ],
+        "Merrimack": [
+          4.723
+        ],
+        "Millers": [
+          7.047
+        ],
+        "Narragansett": [
+          0
+        ],
+        "Nashua": [
+          5.332
+        ],
+        "North Coastal": [
+          0.846
+        ],
+        "Parker": [
+          2.75
+        ],
+        "Quinebaug": [
+          3.428
+        ],
+        "Shawsheen": [
+          2.199
+        ],
+        "South Coastal": [
+          0.105
+        ],
+        "SuAsCo": [
+          3.033
+        ],
+        "Taunton": [
+          1.21
+        ],
+        "Ten Mile": [
+          1.5
+        ],
+        "Westfield": [
+          8.388
         ],
         "MA": [
           4.328
@@ -145,6 +301,84 @@
         "25027": [
           0.151
         ],
+        "Blackstone": [
+          0
+        ],
+        "Boston Harbor": [
+          0
+        ],
+        "Buzzards Bay": [
+          0
+        ],
+        "Cape Cod": [
+          0
+        ],
+        "Charles": [
+          0
+        ],
+        "Chicopee": [
+          0.075
+        ],
+        "Connecticut": [
+          0.173
+        ],
+        "Deerfield": [
+          2.036
+        ],
+        "Farmington": [
+          1.6
+        ],
+        "French": [
+          0
+        ],
+        "Housatonic": [
+          1.555
+        ],
+        "Hudson": [
+          2.713
+        ],
+        "Ipswich": [
+          0
+        ],
+        "Merrimack": [
+          0
+        ],
+        "Millers": [
+          0.619
+        ],
+        "Narragansett": [
+          0
+        ],
+        "Nashua": [
+          0.033
+        ],
+        "North Coastal": [
+          0
+        ],
+        "Parker": [
+          0
+        ],
+        "Quinebaug": [
+          0
+        ],
+        "Shawsheen": [
+          0
+        ],
+        "South Coastal": [
+          0
+        ],
+        "SuAsCo": [
+          0
+        ],
+        "Taunton": [
+          0
+        ],
+        "Ten Mile": [
+          0
+        ],
+        "Westfield": [
+          2.207
+        ],
         "MA": [
           0.46
         ]
@@ -194,6 +428,84 @@
         ],
         "25027": [
           5.021
+        ],
+        "Blackstone": [
+          2.917
+        ],
+        "Boston Harbor": [
+          2.477
+        ],
+        "Buzzards Bay": [
+          2.146
+        ],
+        "Cape Cod": [
+          3
+        ],
+        "Charles": [
+          2.74
+        ],
+        "Chicopee": [
+          5.581
+        ],
+        "Connecticut": [
+          6.014
+        ],
+        "Deerfield": [
+          10.887
+        ],
+        "Farmington": [
+          8.499
+        ],
+        "French": [
+          3
+        ],
+        "Housatonic": [
+          9.08
+        ],
+        "Hudson": [
+          13.069
+        ],
+        "Ipswich": [
+          2.667
+        ],
+        "Merrimack": [
+          3.334
+        ],
+        "Millers": [
+          10.999
+        ],
+        "Narragansett": [
+          2.333
+        ],
+        "Nashua": [
+          4.632
+        ],
+        "North Coastal": [
+          2.538
+        ],
+        "Parker": [
+          3
+        ],
+        "Quinebaug": [
+          3.428
+        ],
+        "Shawsheen": [
+          3
+        ],
+        "South Coastal": [
+          3
+        ],
+        "SuAsCo": [
+          3.2
+        ],
+        "Taunton": [
+          3.053
+        ],
+        "Ten Mile": [
+          3
+        ],
+        "Westfield": [
+          8.386
         ],
         "MA": [
           5.095
@@ -245,6 +557,84 @@
         "25027": [
           2.906
         ],
+        "Blackstone": [
+          1.624
+        ],
+        "Boston Harbor": [
+          1.048
+        ],
+        "Buzzards Bay": [
+          1.037
+        ],
+        "Cape Cod": [
+          0.357
+        ],
+        "Charles": [
+          1.261
+        ],
+        "Chicopee": [
+          2.469
+        ],
+        "Connecticut": [
+          2.692
+        ],
+        "Deerfield": [
+          7.294
+        ],
+        "Farmington": [
+          8.099
+        ],
+        "French": [
+          1.666
+        ],
+        "Housatonic": [
+          9.137
+        ],
+        "Hudson": [
+          10.714
+        ],
+        "Ipswich": [
+          1.25
+        ],
+        "Merrimack": [
+          1.945
+        ],
+        "Millers": [
+          6.381
+        ],
+        "Narragansett": [
+          1
+        ],
+        "Nashua": [
+          2.8
+        ],
+        "North Coastal": [
+          0.616
+        ],
+        "Parker": [
+          1.375
+        ],
+        "Quinebaug": [
+          1
+        ],
+        "Shawsheen": [
+          1.399
+        ],
+        "South Coastal": [
+          1
+        ],
+        "SuAsCo": [
+          2.701
+        ],
+        "Taunton": [
+          1.184
+        ],
+        "Ten Mile": [
+          1
+        ],
+        "Westfield": [
+          6.992
+        ],
         "MA": [
           3.175
         ]
@@ -294,6 +684,84 @@
         ],
         "25027": [
           5.859
+        ],
+        "Blackstone": [
+          3.083
+        ],
+        "Boston Harbor": [
+          2.049
+        ],
+        "Buzzards Bay": [
+          2.258
+        ],
+        "Cape Cod": [
+          1.286
+        ],
+        "Charles": [
+          2.784
+        ],
+        "Chicopee": [
+          6.731
+        ],
+        "Connecticut": [
+          7.011
+        ],
+        "Deerfield": [
+          11.146
+        ],
+        "Farmington": [
+          7.999
+        ],
+        "French": [
+          3.556
+        ],
+        "Housatonic": [
+          9.274
+        ],
+        "Hudson": [
+          11.211
+        ],
+        "Ipswich": [
+          2.667
+        ],
+        "Merrimack": [
+          4.39
+        ],
+        "Millers": [
+          12.381
+        ],
+        "Narragansett": [
+          1.333
+        ],
+        "Nashua": [
+          5.431
+        ],
+        "North Coastal": [
+          2.384
+        ],
+        "Parker": [
+          2.375
+        ],
+        "Quinebaug": [
+          3.929
+        ],
+        "Shawsheen": [
+          2.399
+        ],
+        "South Coastal": [
+          1.527
+        ],
+        "SuAsCo": [
+          3.167
+        ],
+        "Taunton": [
+          2.605
+        ],
+        "Ten Mile": [
+          2.249
+        ],
+        "Westfield": [
+          9.703
         ],
         "MA": [
           5.269
@@ -345,6 +813,84 @@
         "25027": [
           9.923
         ],
+        "Blackstone": [
+          8.834
+        ],
+        "Boston Harbor": [
+          4.431
+        ],
+        "Buzzards Bay": [
+          4.072
+        ],
+        "Cape Cod": [
+          3.071
+        ],
+        "Charles": [
+          7.047
+        ],
+        "Chicopee": [
+          9.695
+        ],
+        "Connecticut": [
+          9.536
+        ],
+        "Deerfield": [
+          14.109
+        ],
+        "Farmington": [
+          9.399
+        ],
+        "French": [
+          7.999
+        ],
+        "Housatonic": [
+          10.995
+        ],
+        "Hudson": [
+          14.57
+        ],
+        "Ipswich": [
+          7
+        ],
+        "Merrimack": [
+          9.445
+        ],
+        "Millers": [
+          14.095
+        ],
+        "Narragansett": [
+          3.333
+        ],
+        "Nashua": [
+          10.798
+        ],
+        "North Coastal": [
+          5.153
+        ],
+        "Parker": [
+          6.875
+        ],
+        "Quinebaug": [
+          7.5
+        ],
+        "Shawsheen": [
+          6.798
+        ],
+        "South Coastal": [
+          3.843
+        ],
+        "SuAsCo": [
+          8.001
+        ],
+        "Taunton": [
+          5.709
+        ],
+        "Ten Mile": [
+          7.499
+        ],
+        "Westfield": [
+          11.886
+        ],
         "MA": [
           8.365
         ]
@@ -394,6 +940,84 @@
         ],
         "25027": [
           6.749
+        ],
+        "Blackstone": [
+          3.375
+        ],
+        "Boston Harbor": [
+          1.477
+        ],
+        "Buzzards Bay": [
+          0.962
+        ],
+        "Cape Cod": [
+          1.107
+        ],
+        "Charles": [
+          2.872
+        ],
+        "Chicopee": [
+          8.484
+        ],
+        "Connecticut": [
+          9.663
+        ],
+        "Deerfield": [
+          15.851
+        ],
+        "Farmington": [
+          14.199
+        ],
+        "French": [
+          3.11
+        ],
+        "Housatonic": [
+          14.858
+        ],
+        "Hudson": [
+          16.642
+        ],
+        "Ipswich": [
+          1.083
+        ],
+        "Merrimack": [
+          3.446
+        ],
+        "Millers": [
+          15.999
+        ],
+        "Narragansett": [
+          1
+        ],
+        "Nashua": [
+          6.297
+        ],
+        "North Coastal": [
+          1
+        ],
+        "Parker": [
+          1
+        ],
+        "Quinebaug": [
+          4.144
+        ],
+        "Shawsheen": [
+          2.401
+        ],
+        "South Coastal": [
+          1
+        ],
+        "SuAsCo": [
+          3.367
+        ],
+        "Taunton": [
+          1.21
+        ],
+        "Ten Mile": [
+          2
+        ],
+        "Westfield": [
+          14.962
         ],
         "MA": [
           6.628
@@ -445,6 +1069,84 @@
         "25027": [
           11.03
         ],
+        "Blackstone": [
+          5.917
+        ],
+        "Boston Harbor": [
+          2.954
+        ],
+        "Buzzards Bay": [
+          0.74
+        ],
+        "Cape Cod": [
+          0.786
+        ],
+        "Charles": [
+          4.786
+        ],
+        "Chicopee": [
+          12.743
+        ],
+        "Connecticut": [
+          13.563
+        ],
+        "Deerfield": [
+          26.404
+        ],
+        "Farmington": [
+          19.396
+        ],
+        "French": [
+          6.332
+        ],
+        "Housatonic": [
+          21.047
+        ],
+        "Hudson": [
+          24.855
+        ],
+        "Ipswich": [
+          2.083
+        ],
+        "Merrimack": [
+          5.557
+        ],
+        "Millers": [
+          25.856
+        ],
+        "Narragansett": [
+          0
+        ],
+        "Nashua": [
+          9.296
+        ],
+        "North Coastal": [
+          1.076
+        ],
+        "Parker": [
+          2
+        ],
+        "Quinebaug": [
+          6.786
+        ],
+        "Shawsheen": [
+          4.401
+        ],
+        "South Coastal": [
+          0.842
+        ],
+        "SuAsCo": [
+          4.399
+        ],
+        "Taunton": [
+          4.155
+        ],
+        "Ten Mile": [
+          5.749
+        ],
+        "Westfield": [
+          22.136
+        ],
         "MA": [
           10.049
         ]
@@ -494,6 +1196,84 @@
         ],
         "25027": [
           0.623
+        ],
+        "Blackstone": [
+          0
+        ],
+        "Boston Harbor": [
+          0
+        ],
+        "Buzzards Bay": [
+          0
+        ],
+        "Cape Cod": [
+          0
+        ],
+        "Charles": [
+          0.174
+        ],
+        "Chicopee": [
+          0.603
+        ],
+        "Connecticut": [
+          0.498
+        ],
+        "Deerfield": [
+          3.776
+        ],
+        "Farmington": [
+          3.099
+        ],
+        "French": [
+          0.445
+        ],
+        "Housatonic": [
+          4.359
+        ],
+        "Hudson": [
+          4.571
+        ],
+        "Ipswich": [
+          0
+        ],
+        "Merrimack": [
+          0
+        ],
+        "Millers": [
+          2.238
+        ],
+        "Narragansett": [
+          0
+        ],
+        "Nashua": [
+          0.166
+        ],
+        "North Coastal": [
+          0
+        ],
+        "Parker": [
+          0
+        ],
+        "Quinebaug": [
+          0.286
+        ],
+        "Shawsheen": [
+          0
+        ],
+        "South Coastal": [
+          0
+        ],
+        "SuAsCo": [
+          0
+        ],
+        "Taunton": [
+          0
+        ],
+        "Ten Mile": [
+          0
+        ],
+        "Westfield": [
+          3.915
         ],
         "MA": [
           1.042
@@ -545,6 +1325,84 @@
         "25027": [
           20.31
         ],
+        "Blackstone": [
+          13.753
+        ],
+        "Boston Harbor": [
+          8.954
+        ],
+        "Buzzards Bay": [
+          6.328
+        ],
+        "Cape Cod": [
+          4.896
+        ],
+        "Charles": [
+          12.095
+        ],
+        "Chicopee": [
+          23.063
+        ],
+        "Connecticut": [
+          28.498
+        ],
+        "Deerfield": [
+          35.515
+        ],
+        "Farmington": [
+          25.496
+        ],
+        "French": [
+          21.337
+        ],
+        "Housatonic": [
+          26.853
+        ],
+        "Hudson": [
+          31.995
+        ],
+        "Ipswich": [
+          15.751
+        ],
+        "Merrimack": [
+          11.944
+        ],
+        "Millers": [
+          35.761
+        ],
+        "Narragansett": [
+          5.83
+        ],
+        "Nashua": [
+          16.495
+        ],
+        "North Coastal": [
+          10.464
+        ],
+        "Parker": [
+          9.5
+        ],
+        "Quinebaug": [
+          19.787
+        ],
+        "Shawsheen": [
+          12.2
+        ],
+        "South Coastal": [
+          8.579
+        ],
+        "SuAsCo": [
+          11.735
+        ],
+        "Taunton": [
+          12.05
+        ],
+        "Ten Mile": [
+          14.499
+        ],
+        "Westfield": [
+          31.873
+        ],
         "MA": [
           18.566
         ]
@@ -594,6 +1452,84 @@
         ],
         "25027": [
           8.204
+        ],
+        "Blackstone": [
+          3.375
+        ],
+        "Boston Harbor": [
+          1.476
+        ],
+        "Buzzards Bay": [
+          0.074
+        ],
+        "Cape Cod": [
+          0
+        ],
+        "Charles": [
+          2.827
+        ],
+        "Chicopee": [
+          9.576
+        ],
+        "Connecticut": [
+          11.742
+        ],
+        "Deerfield": [
+          20.626
+        ],
+        "Farmington": [
+          12.298
+        ],
+        "French": [
+          6.89
+        ],
+        "Housatonic": [
+          13.131
+        ],
+        "Hudson": [
+          19.354
+        ],
+        "Ipswich": [
+          4.25
+        ],
+        "Merrimack": [
+          4.889
+        ],
+        "Millers": [
+          19.142
+        ],
+        "Narragansett": [
+          0.666
+        ],
+        "Nashua": [
+          6.863
+        ],
+        "North Coastal": [
+          2.693
+        ],
+        "Parker": [
+          2.75
+        ],
+        "Quinebaug": [
+          6.357
+        ],
+        "Shawsheen": [
+          4.201
+        ],
+        "South Coastal": [
+          0
+        ],
+        "SuAsCo": [
+          3.933
+        ],
+        "Taunton": [
+          0.973
+        ],
+        "Ten Mile": [
+          2.75
+        ],
+        "Westfield": [
+          16.166
         ],
         "MA": [
           7.398
@@ -645,6 +1581,84 @@
         "25027": [
           20.191
         ],
+        "Blackstone": [
+          11.748
+        ],
+        "Boston Harbor": [
+          4.143
+        ],
+        "Buzzards Bay": [
+          1.889
+        ],
+        "Cape Cod": [
+          1.107
+        ],
+        "Charles": [
+          5.96
+        ],
+        "Chicopee": [
+          24.138
+        ],
+        "Connecticut": [
+          27.827
+        ],
+        "Deerfield": [
+          36.85
+        ],
+        "Farmington": [
+          32.398
+        ],
+        "French": [
+          17.446
+        ],
+        "Housatonic": [
+          27.603
+        ],
+        "Hudson": [
+          33.708
+        ],
+        "Ipswich": [
+          8
+        ],
+        "Merrimack": [
+          7.445
+        ],
+        "Millers": [
+          33.808
+        ],
+        "Narragansett": [
+          3
+        ],
+        "Nashua": [
+          15.966
+        ],
+        "North Coastal": [
+          5.001
+        ],
+        "Parker": [
+          4.5
+        ],
+        "Quinebaug": [
+          21.928
+        ],
+        "Shawsheen": [
+          7.601
+        ],
+        "South Coastal": [
+          2.263
+        ],
+        "SuAsCo": [
+          10.003
+        ],
+        "Taunton": [
+          3.025
+        ],
+        "Ten Mile": [
+          6.249
+        ],
+        "Westfield": [
+          33.506
+        ],
         "MA": [
           16.44
         ]
@@ -694,6 +1708,84 @@
         ],
         "25027": [
           9.903
+        ],
+        "Blackstone": [
+          4.919
+        ],
+        "Boston Harbor": [
+          1.952
+        ],
+        "Buzzards Bay": [
+          1.517
+        ],
+        "Cape Cod": [
+          1.286
+        ],
+        "Charles": [
+          4.612
+        ],
+        "Chicopee": [
+          13.277
+        ],
+        "Connecticut": [
+          16.479
+        ],
+        "Deerfield": [
+          25.069
+        ],
+        "Farmington": [
+          15.697
+        ],
+        "French": [
+          8.335
+        ],
+        "Housatonic": [
+          16.773
+        ],
+        "Hudson": [
+          22.068
+        ],
+        "Ipswich": [
+          7.001
+        ],
+        "Merrimack": [
+          4.833
+        ],
+        "Millers": [
+          22.38
+        ],
+        "Narragansett": [
+          0.999
+        ],
+        "Nashua": [
+          6.929
+        ],
+        "North Coastal": [
+          4.231
+        ],
+        "Parker": [
+          3
+        ],
+        "Quinebaug": [
+          13.642
+        ],
+        "Shawsheen": [
+          8.203
+        ],
+        "South Coastal": [
+          1.632
+        ],
+        "SuAsCo": [
+          5.732
+        ],
+        "Taunton": [
+          3
+        ],
+        "Ten Mile": [
+          3.999
+        ],
+        "Westfield": [
+          15.099
         ],
         "MA": [
           9.597
@@ -745,6 +1837,84 @@
         "25027": [
           11.71
         ],
+        "Blackstone": [
+          8.586
+        ],
+        "Boston Harbor": [
+          4.666
+        ],
+        "Buzzards Bay": [
+          3.071
+        ],
+        "Cape Cod": [
+          1.679
+        ],
+        "Charles": [
+          7.655
+        ],
+        "Chicopee": [
+          12.807
+        ],
+        "Connecticut": [
+          14.034
+        ],
+        "Deerfield": [
+          15.665
+        ],
+        "Farmington": [
+          14.999
+        ],
+        "French": [
+          13.224
+        ],
+        "Housatonic": [
+          13.11
+        ],
+        "Hudson": [
+          15.356
+        ],
+        "Ipswich": [
+          7.834
+        ],
+        "Merrimack": [
+          6.056
+        ],
+        "Millers": [
+          17.666
+        ],
+        "Narragansett": [
+          2.999
+        ],
+        "Nashua": [
+          10.431
+        ],
+        "North Coastal": [
+          4.618
+        ],
+        "Parker": [
+          3.125
+        ],
+        "Quinebaug": [
+          13.286
+        ],
+        "Shawsheen": [
+          8.802
+        ],
+        "South Coastal": [
+          3.263
+        ],
+        "SuAsCo": [
+          7.967
+        ],
+        "Taunton": [
+          5.92
+        ],
+        "Ten Mile": [
+          7.999
+        ],
+        "Westfield": [
+          14.285
+        ],
         "MA": [
           9.537
         ]
@@ -794,6 +1964,84 @@
         ],
         "25027": [
           7.717
+        ],
+        "Blackstone": [
+          4.501
+        ],
+        "Boston Harbor": [
+          1.952
+        ],
+        "Buzzards Bay": [
+          0.407
+        ],
+        "Cape Cod": [
+          0.429
+        ],
+        "Charles": [
+          3.828
+        ],
+        "Chicopee": [
+          8.297
+        ],
+        "Connecticut": [
+          7.841
+        ],
+        "Deerfield": [
+          13.627
+        ],
+        "Farmington": [
+          12.499
+        ],
+        "French": [
+          6.112
+        ],
+        "Housatonic": [
+          11.803
+        ],
+        "Hudson": [
+          15.141
+        ],
+        "Ipswich": [
+          4.584
+        ],
+        "Merrimack": [
+          3.667
+        ],
+        "Millers": [
+          14
+        ],
+        "Narragansett": [
+          0
+        ],
+        "Nashua": [
+          6.298
+        ],
+        "North Coastal": [
+          2.846
+        ],
+        "Parker": [
+          2.875
+        ],
+        "Quinebaug": [
+          8.071
+        ],
+        "Shawsheen": [
+          5.401
+        ],
+        "South Coastal": [
+          0.053
+        ],
+        "SuAsCo": [
+          5.067
+        ],
+        "Taunton": [
+          1.605
+        ],
+        "Ten Mile": [
+          3.749
+        ],
+        "Westfield": [
+          11.414
         ],
         "MA": [
           6.252
@@ -845,6 +2093,84 @@
         "25027": [
           6.82
         ],
+        "Blackstone": [
+          4.293
+        ],
+        "Boston Harbor": [
+          2.334
+        ],
+        "Buzzards Bay": [
+          1.629
+        ],
+        "Cape Cod": [
+          1.286
+        ],
+        "Charles": [
+          3.523
+        ],
+        "Chicopee": [
+          7.431
+        ],
+        "Connecticut": [
+          7.099
+        ],
+        "Deerfield": [
+          9.48
+        ],
+        "Farmington": [
+          8.2
+        ],
+        "French": [
+          7.335
+        ],
+        "Housatonic": [
+          8.222
+        ],
+        "Hudson": [
+          8.928
+        ],
+        "Ipswich": [
+          2.834
+        ],
+        "Merrimack": [
+          2.944
+        ],
+        "Millers": [
+          10.571
+        ],
+        "Narragansett": [
+          1
+        ],
+        "Nashua": [
+          5.299
+        ],
+        "North Coastal": [
+          2.308
+        ],
+        "Parker": [
+          2
+        ],
+        "Quinebaug": [
+          9.786
+        ],
+        "Shawsheen": [
+          5.002
+        ],
+        "South Coastal": [
+          3.316
+        ],
+        "SuAsCo": [
+          3.833
+        ],
+        "Taunton": [
+          3.788
+        ],
+        "Ten Mile": [
+          3
+        ],
+        "Westfield": [
+          6.865
+        ],
         "MA": [
           5.282
         ]
@@ -894,6 +2220,84 @@
         ],
         "25027": [
           16.082
+        ],
+        "Blackstone": [
+          10.375
+        ],
+        "Boston Harbor": [
+          5.905
+        ],
+        "Buzzards Bay": [
+          4.073
+        ],
+        "Cape Cod": [
+          2.68
+        ],
+        "Charles": [
+          8.002
+        ],
+        "Chicopee": [
+          17.73
+        ],
+        "Connecticut": [
+          15.688
+        ],
+        "Deerfield": [
+          17.885
+        ],
+        "Farmington": [
+          19.799
+        ],
+        "French": [
+          15.558
+        ],
+        "Housatonic": [
+          17.443
+        ],
+        "Hudson": [
+          20.001
+        ],
+        "Ipswich": [
+          9.834
+        ],
+        "Merrimack": [
+          10.277
+        ],
+        "Millers": [
+          22.428
+        ],
+        "Narragansett": [
+          5
+        ],
+        "Nashua": [
+          14.564
+        ],
+        "North Coastal": [
+          7.923
+        ],
+        "Parker": [
+          8
+        ],
+        "Quinebaug": [
+          17.5
+        ],
+        "Shawsheen": [
+          10.402
+        ],
+        "South Coastal": [
+          4.37
+        ],
+        "SuAsCo": [
+          11.267
+        ],
+        "Taunton": [
+          6.552
+        ],
+        "Ten Mile": [
+          7.249
+        ],
+        "Westfield": [
+          16.707
         ],
         "MA": [
           12.163
@@ -945,6 +2349,84 @@
         "25027": [
           7.468
         ],
+        "Blackstone": [
+          3.167
+        ],
+        "Boston Harbor": [
+          1.238
+        ],
+        "Buzzards Bay": [
+          1.074
+        ],
+        "Cape Cod": [
+          1
+        ],
+        "Charles": [
+          2.045
+        ],
+        "Chicopee": [
+          9.052
+        ],
+        "Connecticut": [
+          7.448
+        ],
+        "Deerfield": [
+          12.959
+        ],
+        "Farmington": [
+          12.599
+        ],
+        "French": [
+          6.889
+        ],
+        "Housatonic": [
+          12.916
+        ],
+        "Hudson": [
+          13.356
+        ],
+        "Ipswich": [
+          1.417
+        ],
+        "Merrimack": [
+          4.167
+        ],
+        "Millers": [
+          13.809
+        ],
+        "Narragansett": [
+          1
+        ],
+        "Nashua": [
+          5.765
+        ],
+        "North Coastal": [
+          1.384
+        ],
+        "Parker": [
+          1.625
+        ],
+        "Quinebaug": [
+          10.928
+        ],
+        "Shawsheen": [
+          3
+        ],
+        "South Coastal": [
+          1.263
+        ],
+        "SuAsCo": [
+          2.466
+        ],
+        "Taunton": [
+          1.158
+        ],
+        "Ten Mile": [
+          1.25
+        ],
+        "Westfield": [
+          9.733
+        ],
         "MA": [
           5.896
         ]
@@ -994,6 +2476,84 @@
         ],
         "25027": [
           16.242
+        ],
+        "Blackstone": [
+          9.751
+        ],
+        "Boston Harbor": [
+          2.143
+        ],
+        "Buzzards Bay": [
+          2.294
+        ],
+        "Cape Cod": [
+          4.214
+        ],
+        "Charles": [
+          6.744
+        ],
+        "Chicopee": [
+          20.161
+        ],
+        "Connecticut": [
+          21.33
+        ],
+        "Deerfield": [
+          26.849
+        ],
+        "Farmington": [
+          24.298
+        ],
+        "French": [
+          15.446
+        ],
+        "Housatonic": [
+          23.414
+        ],
+        "Hudson": [
+          26.357
+        ],
+        "Ipswich": [
+          3.334
+        ],
+        "Merrimack": [
+          4.112
+        ],
+        "Millers": [
+          27.095
+        ],
+        "Narragansett": [
+          1.666
+        ],
+        "Nashua": [
+          11.331
+        ],
+        "North Coastal": [
+          2.462
+        ],
+        "Parker": [
+          2.625
+        ],
+        "Quinebaug": [
+          20.5
+        ],
+        "Shawsheen": [
+          5.202
+        ],
+        "South Coastal": [
+          3.686
+        ],
+        "SuAsCo": [
+          6.302
+        ],
+        "Taunton": [
+          3.105
+        ],
+        "Ten Mile": [
+          5.249
+        ],
+        "Westfield": [
+          20.754
         ],
         "MA": [
           12.803
@@ -1045,6 +2605,84 @@
         "25027": [
           17.815
         ],
+        "Blackstone": [
+          14.171
+        ],
+        "Boston Harbor": [
+          7.619
+        ],
+        "Buzzards Bay": [
+          3.737
+        ],
+        "Cape Cod": [
+          1.751
+        ],
+        "Charles": [
+          12.005
+        ],
+        "Chicopee": [
+          18.107
+        ],
+        "Connecticut": [
+          17.576
+        ],
+        "Deerfield": [
+          21.368
+        ],
+        "Farmington": [
+          21.399
+        ],
+        "French": [
+          17.003
+        ],
+        "Housatonic": [
+          19.688
+        ],
+        "Hudson": [
+          23.641
+        ],
+        "Ipswich": [
+          10.834
+        ],
+        "Merrimack": [
+          14.946
+        ],
+        "Millers": [
+          25.904
+        ],
+        "Narragansett": [
+          3.499
+        ],
+        "Nashua": [
+          16.13
+        ],
+        "North Coastal": [
+          8.925
+        ],
+        "Parker": [
+          9.25
+        ],
+        "Quinebaug": [
+          18.428
+        ],
+        "Shawsheen": [
+          13
+        ],
+        "South Coastal": [
+          7.579
+        ],
+        "SuAsCo": [
+          13.001
+        ],
+        "Taunton": [
+          7.787
+        ],
+        "Ten Mile": [
+          10.249
+        ],
+        "Westfield": [
+          18.313
+        ],
         "MA": [
           13.888
         ]
@@ -1094,6 +2732,84 @@
         ],
         "25027": [
           9.071
+        ],
+        "Blackstone": [
+          4.667
+        ],
+        "Boston Harbor": [
+          1.714
+        ],
+        "Buzzards Bay": [
+          0.887
+        ],
+        "Cape Cod": [
+          0.143
+        ],
+        "Charles": [
+          2.958
+        ],
+        "Chicopee": [
+          9.88
+        ],
+        "Connecticut": [
+          9.748
+        ],
+        "Deerfield": [
+          16.181
+        ],
+        "Farmington": [
+          17.198
+        ],
+        "French": [
+          7.001
+        ],
+        "Housatonic": [
+          13.412
+        ],
+        "Hudson": [
+          16.427
+        ],
+        "Ipswich": [
+          5.084
+        ],
+        "Merrimack": [
+          5.778
+        ],
+        "Millers": [
+          18.285
+        ],
+        "Narragansett": [
+          1.166
+        ],
+        "Nashua": [
+          7.265
+        ],
+        "North Coastal": [
+          2.462
+        ],
+        "Parker": [
+          2.25
+        ],
+        "Quinebaug": [
+          10.214
+        ],
+        "Shawsheen": [
+          4.6
+        ],
+        "South Coastal": [
+          1.633
+        ],
+        "SuAsCo": [
+          3.999
+        ],
+        "Taunton": [
+          1.685
+        ],
+        "Ten Mile": [
+          2
+        ],
+        "Westfield": [
+          12.734
         ],
         "MA": [
           7.243
@@ -1145,6 +2861,84 @@
         "25027": [
           9.319
         ],
+        "Blackstone": [
+          5.041
+        ],
+        "Boston Harbor": [
+          0.761
+        ],
+        "Buzzards Bay": [
+          0.074
+        ],
+        "Cape Cod": [
+          0
+        ],
+        "Charles": [
+          2.392
+        ],
+        "Chicopee": [
+          9.991
+        ],
+        "Connecticut": [
+          8.726
+        ],
+        "Deerfield": [
+          15.96
+        ],
+        "Farmington": [
+          15
+        ],
+        "French": [
+          6.333
+        ],
+        "Housatonic": [
+          16.217
+        ],
+        "Hudson": [
+          18.643
+        ],
+        "Ipswich": [
+          1.667
+        ],
+        "Merrimack": [
+          6.39
+        ],
+        "Millers": [
+          18.238
+        ],
+        "Narragansett": [
+          0
+        ],
+        "Nashua": [
+          8.297
+        ],
+        "North Coastal": [
+          1.384
+        ],
+        "Parker": [
+          1.625
+        ],
+        "Quinebaug": [
+          6.5
+        ],
+        "Shawsheen": [
+          4.601
+        ],
+        "South Coastal": [
+          0.158
+        ],
+        "SuAsCo": [
+          5.033
+        ],
+        "Taunton": [
+          0.105
+        ],
+        "Ten Mile": [
+          1.249
+        ],
+        "Westfield": [
+          12.862
+        ],
         "MA": [
           6.997
         ]
@@ -1194,6 +2988,84 @@
         ],
         "25027": [
           8.537
+        ],
+        "Blackstone": [
+          4.418
+        ],
+        "Boston Harbor": [
+          2.095
+        ],
+        "Buzzards Bay": [
+          0.703
+        ],
+        "Cape Cod": [
+          0.036
+        ],
+        "Charles": [
+          3.698
+        ],
+        "Chicopee": [
+          9.654
+        ],
+        "Connecticut": [
+          9.687
+        ],
+        "Deerfield": [
+          14.405
+        ],
+        "Farmington": [
+          13.6
+        ],
+        "French": [
+          7.001
+        ],
+        "Housatonic": [
+          12.359
+        ],
+        "Hudson": [
+          15.643
+        ],
+        "Ipswich": [
+          3.834
+        ],
+        "Merrimack": [
+          4.167
+        ],
+        "Millers": [
+          15.809
+        ],
+        "Narragansett": [
+          0.166
+        ],
+        "Nashua": [
+          6.332
+        ],
+        "North Coastal": [
+          2.693
+        ],
+        "Parker": [
+          1.875
+        ],
+        "Quinebaug": [
+          8.643
+        ],
+        "Shawsheen": [
+          5
+        ],
+        "South Coastal": [
+          1.316
+        ],
+        "SuAsCo": [
+          4.9
+        ],
+        "Taunton": [
+          2.342
+        ],
+        "Ten Mile": [
+          3.5
+        ],
+        "Westfield": [
+          12.072
         ],
         "MA": [
           6.792
@@ -1245,6 +3117,84 @@
         "25027": [
           6.539
         ],
+        "Blackstone": [
+          3.919
+        ],
+        "Boston Harbor": [
+          0.619
+        ],
+        "Buzzards Bay": [
+          0.333
+        ],
+        "Cape Cod": [
+          0
+        ],
+        "Charles": [
+          2.307
+        ],
+        "Chicopee": [
+          7.39
+        ],
+        "Connecticut": [
+          6.993
+        ],
+        "Deerfield": [
+          12.145
+        ],
+        "Farmington": [
+          8.599
+        ],
+        "French": [
+          6.335
+        ],
+        "Housatonic": [
+          7.58
+        ],
+        "Hudson": [
+          11.146
+        ],
+        "Ipswich": [
+          1.167
+        ],
+        "Merrimack": [
+          3.335
+        ],
+        "Millers": [
+          12.714
+        ],
+        "Narragansett": [
+          0.5
+        ],
+        "Nashua": [
+          4.865
+        ],
+        "North Coastal": [
+          0.77
+        ],
+        "Parker": [
+          0.875
+        ],
+        "Quinebaug": [
+          5.357
+        ],
+        "Shawsheen": [
+          1.4
+        ],
+        "South Coastal": [
+          1
+        ],
+        "SuAsCo": [
+          1.833
+        ],
+        "Taunton": [
+          1.184
+        ],
+        "Ten Mile": [
+          2
+        ],
+        "Westfield": [
+          6.577
+        ],
         "MA": [
           4.613
         ]
@@ -1294,6 +3244,84 @@
         ],
         "25027": [
           13.984
+        ],
+        "Blackstone": [
+          9.002
+        ],
+        "Boston Harbor": [
+          3.761
+        ],
+        "Buzzards Bay": [
+          1.74
+        ],
+        "Cape Cod": [
+          1.715
+        ],
+        "Charles": [
+          6.699
+        ],
+        "Chicopee": [
+          15.069
+        ],
+        "Connecticut": [
+          13.36
+        ],
+        "Deerfield": [
+          18.626
+        ],
+        "Farmington": [
+          19.199
+        ],
+        "French": [
+          12.779
+        ],
+        "Housatonic": [
+          19.384
+        ],
+        "Hudson": [
+          21.645
+        ],
+        "Ipswich": [
+          7.417
+        ],
+        "Merrimack": [
+          11.891
+        ],
+        "Millers": [
+          20.524
+        ],
+        "Narragansett": [
+          2.666
+        ],
+        "Nashua": [
+          13.097
+        ],
+        "North Coastal": [
+          4.462
+        ],
+        "Parker": [
+          6.374
+        ],
+        "Quinebaug": [
+          14.571
+        ],
+        "Shawsheen": [
+          9.601
+        ],
+        "South Coastal": [
+          2.738
+        ],
+        "SuAsCo": [
+          9.832
+        ],
+        "Taunton": [
+          4.341
+        ],
+        "Ten Mile": [
+          6
+        ],
+        "Westfield": [
+          16.126
         ],
         "MA": [
           10.855
@@ -1345,6 +3373,84 @@
         "25027": [
           18.142
         ],
+        "Blackstone": [
+          10.379
+        ],
+        "Boston Harbor": [
+          1.762
+        ],
+        "Buzzards Bay": [
+          1.776
+        ],
+        "Cape Cod": [
+          0.536
+        ],
+        "Charles": [
+          6.05
+        ],
+        "Chicopee": [
+          17.987
+        ],
+        "Connecticut": [
+          14.636
+        ],
+        "Deerfield": [
+          23.293
+        ],
+        "Farmington": [
+          27.798
+        ],
+        "French": [
+          20.894
+        ],
+        "Housatonic": [
+          27.333
+        ],
+        "Hudson": [
+          28.008
+        ],
+        "Ipswich": [
+          3.001
+        ],
+        "Merrimack": [
+          7.503
+        ],
+        "Millers": [
+          29.286
+        ],
+        "Narragansett": [
+          1.832
+        ],
+        "Nashua": [
+          14.229
+        ],
+        "North Coastal": [
+          1.921
+        ],
+        "Parker": [
+          1.375
+        ],
+        "Quinebaug": [
+          21.715
+        ],
+        "Shawsheen": [
+          5.001
+        ],
+        "South Coastal": [
+          2.897
+        ],
+        "SuAsCo": [
+          8.067
+        ],
+        "Taunton": [
+          4.262
+        ],
+        "Ten Mile": [
+          6.749
+        ],
+        "Westfield": [
+          20.673
+        ],
         "MA": [
           12.531
         ]
@@ -1394,6 +3500,84 @@
         ],
         "25027": [
           13.052
+        ],
+        "Blackstone": [
+          7.336
+        ],
+        "Boston Harbor": [
+          1.999
+        ],
+        "Buzzards Bay": [
+          0.924
+        ],
+        "Cape Cod": [
+          0.071
+        ],
+        "Charles": [
+          6.439
+        ],
+        "Chicopee": [
+          14.88
+        ],
+        "Connecticut": [
+          15.376
+        ],
+        "Deerfield": [
+          20.178
+        ],
+        "Farmington": [
+          22.799
+        ],
+        "French": [
+          11.114
+        ],
+        "Housatonic": [
+          21.695
+        ],
+        "Hudson": [
+          22.719
+        ],
+        "Ipswich": [
+          3.834
+        ],
+        "Merrimack": [
+          7.724
+        ],
+        "Millers": [
+          26.571
+        ],
+        "Narragansett": [
+          2.499
+        ],
+        "Nashua": [
+          9.929
+        ],
+        "North Coastal": [
+          2.154
+        ],
+        "Parker": [
+          3.874
+        ],
+        "Quinebaug": [
+          14.928
+        ],
+        "Shawsheen": [
+          6.201
+        ],
+        "South Coastal": [
+          2.791
+        ],
+        "SuAsCo": [
+          7.934
+        ],
+        "Taunton": [
+          3.526
+        ],
+        "Ten Mile": [
+          6.75
+        ],
+        "Westfield": [
+          15.843
         ],
         "MA": [
           10.588
@@ -1445,6 +3629,84 @@
         "25027": [
           12.655
         ],
+        "Blackstone": [
+          9.751
+        ],
+        "Boston Harbor": [
+          7.19
+        ],
+        "Buzzards Bay": [
+          6.442
+        ],
+        "Cape Cod": [
+          4.11
+        ],
+        "Charles": [
+          9.219
+        ],
+        "Chicopee": [
+          13.978
+        ],
+        "Connecticut": [
+          14.256
+        ],
+        "Deerfield": [
+          18.182
+        ],
+        "Farmington": [
+          19.599
+        ],
+        "French": [
+          11.223
+        ],
+        "Housatonic": [
+          19.359
+        ],
+        "Hudson": [
+          21.79
+        ],
+        "Ipswich": [
+          7.333
+        ],
+        "Merrimack": [
+          10.334
+        ],
+        "Millers": [
+          17.714
+        ],
+        "Narragansett": [
+          7.667
+        ],
+        "Nashua": [
+          12.298
+        ],
+        "North Coastal": [
+          6.691
+        ],
+        "Parker": [
+          8.25
+        ],
+        "Quinebaug": [
+          12.571
+        ],
+        "Shawsheen": [
+          7.8
+        ],
+        "South Coastal": [
+          8.001
+        ],
+        "SuAsCo": [
+          9.033
+        ],
+        "Taunton": [
+          8.474
+        ],
+        "Ten Mile": [
+          9.25
+        ],
+        "Westfield": [
+          17.367
+        ],
         "MA": [
           11.839
         ]
@@ -1494,6 +3756,84 @@
         ],
         "25027": [
           1.709
+        ],
+        "Blackstone": [
+          0
+        ],
+        "Boston Harbor": [
+          0
+        ],
+        "Buzzards Bay": [
+          0
+        ],
+        "Cape Cod": [
+          0
+        ],
+        "Charles": [
+          0.044
+        ],
+        "Chicopee": [
+          1.714
+        ],
+        "Connecticut": [
+          2.406
+        ],
+        "Deerfield": [
+          6.33
+        ],
+        "Farmington": [
+          10.7
+        ],
+        "French": [
+          0
+        ],
+        "Housatonic": [
+          9.527
+        ],
+        "Hudson": [
+          9.292
+        ],
+        "Ipswich": [
+          0
+        ],
+        "Merrimack": [
+          0.722
+        ],
+        "Millers": [
+          7.191
+        ],
+        "Narragansett": [
+          0
+        ],
+        "Nashua": [
+          1.932
+        ],
+        "North Coastal": [
+          0
+        ],
+        "Parker": [
+          0
+        ],
+        "Quinebaug": [
+          0.214
+        ],
+        "Shawsheen": [
+          0
+        ],
+        "South Coastal": [
+          0
+        ],
+        "SuAsCo": [
+          0.066
+        ],
+        "Taunton": [
+          0
+        ],
+        "Ten Mile": [
+          0
+        ],
+        "Westfield": [
+          6.995
         ],
         "MA": [
           2.41
@@ -1545,6 +3885,84 @@
         "25027": [
           22.319
         ],
+        "Blackstone": [
+          16.046
+        ],
+        "Boston Harbor": [
+          8.094
+        ],
+        "Buzzards Bay": [
+          7.812
+        ],
+        "Cape Cod": [
+          5.645
+        ],
+        "Charles": [
+          13.18
+        ],
+        "Chicopee": [
+          22.085
+        ],
+        "Connecticut": [
+          20.657
+        ],
+        "Deerfield": [
+          27.104
+        ],
+        "Farmington": [
+          27.598
+        ],
+        "French": [
+          20.003
+        ],
+        "Housatonic": [
+          29.916
+        ],
+        "Hudson": [
+          31.72
+        ],
+        "Ipswich": [
+          12.667
+        ],
+        "Merrimack": [
+          16.945
+        ],
+        "Millers": [
+          33.952
+        ],
+        "Narragansett": [
+          9.332
+        ],
+        "Nashua": [
+          20.697
+        ],
+        "North Coastal": [
+          9.153
+        ],
+        "Parker": [
+          12.625
+        ],
+        "Quinebaug": [
+          24.357
+        ],
+        "Shawsheen": [
+          15.602
+        ],
+        "South Coastal": [
+          9.318
+        ],
+        "SuAsCo": [
+          17.434
+        ],
+        "Taunton": [
+          11.368
+        ],
+        "Ten Mile": [
+          13.75
+        ],
+        "Westfield": [
+          21.942
+        ],
         "MA": [
           17.923
         ]
@@ -1594,6 +4012,84 @@
         ],
         "25027": [
           15.85
+        ],
+        "Blackstone": [
+          12.003
+        ],
+        "Boston Harbor": [
+          7.096
+        ],
+        "Buzzards Bay": [
+          6.961
+        ],
+        "Cape Cod": [
+          2.502
+        ],
+        "Charles": [
+          10.872
+        ],
+        "Chicopee": [
+          16.731
+        ],
+        "Connecticut": [
+          17.835
+        ],
+        "Deerfield": [
+          19.479
+        ],
+        "Farmington": [
+          16.3
+        ],
+        "French": [
+          15.446
+        ],
+        "Housatonic": [
+          19.249
+        ],
+        "Hudson": [
+          22.288
+        ],
+        "Ipswich": [
+          8.25
+        ],
+        "Merrimack": [
+          12.225
+        ],
+        "Millers": [
+          25.809
+        ],
+        "Narragansett": [
+          7.666
+        ],
+        "Nashua": [
+          14.462
+        ],
+        "North Coastal": [
+          5.615
+        ],
+        "Parker": [
+          8.25
+        ],
+        "Quinebaug": [
+          16.786
+        ],
+        "Shawsheen": [
+          9.601
+        ],
+        "South Coastal": [
+          8.211
+        ],
+        "SuAsCo": [
+          11.633
+        ],
+        "Taunton": [
+          8.973
+        ],
+        "Ten Mile": [
+          10
+        ],
+        "Westfield": [
+          15.39
         ],
         "MA": [
           13.101
@@ -1645,6 +4141,84 @@
         "25027": [
           7.887
         ],
+        "Blackstone": [
+          4.251
+        ],
+        "Boston Harbor": [
+          1.952
+        ],
+        "Buzzards Bay": [
+          2.222
+        ],
+        "Cape Cod": [
+          1.072
+        ],
+        "Charles": [
+          3.48
+        ],
+        "Chicopee": [
+          9.429
+        ],
+        "Connecticut": [
+          8.865
+        ],
+        "Deerfield": [
+          10.036
+        ],
+        "Farmington": [
+          10.599
+        ],
+        "French": [
+          6.558
+        ],
+        "Housatonic": [
+          10.083
+        ],
+        "Hudson": [
+          10.859
+        ],
+        "Ipswich": [
+          1.834
+        ],
+        "Merrimack": [
+          5.555
+        ],
+        "Millers": [
+          12.905
+        ],
+        "Narragansett": [
+          1
+        ],
+        "Nashua": [
+          6.998
+        ],
+        "North Coastal": [
+          1.614
+        ],
+        "Parker": [
+          3.75
+        ],
+        "Quinebaug": [
+          8
+        ],
+        "Shawsheen": [
+          3.401
+        ],
+        "South Coastal": [
+          3.054
+        ],
+        "SuAsCo": [
+          4.6
+        ],
+        "Taunton": [
+          2.236
+        ],
+        "Ten Mile": [
+          2.25
+        ],
+        "Westfield": [
+          8.605
+        ],
         "MA": [
           6.055
         ]
@@ -1694,6 +4268,84 @@
         ],
         "25027": [
           15.019
+        ],
+        "Blackstone": [
+          11.212
+        ],
+        "Boston Harbor": [
+          3.524
+        ],
+        "Buzzards Bay": [
+          1.443
+        ],
+        "Cape Cod": [
+          1.358
+        ],
+        "Charles": [
+          9.178
+        ],
+        "Chicopee": [
+          16.316
+        ],
+        "Connecticut": [
+          16.734
+        ],
+        "Deerfield": [
+          18.7
+        ],
+        "Farmington": [
+          18.499
+        ],
+        "French": [
+          13.668
+        ],
+        "Housatonic": [
+          19.888
+        ],
+        "Hudson": [
+          20.647
+        ],
+        "Ipswich": [
+          5.083
+        ],
+        "Merrimack": [
+          10.725
+        ],
+        "Millers": [
+          22.666
+        ],
+        "Narragansett": [
+          3.333
+        ],
+        "Nashua": [
+          14.23
+        ],
+        "North Coastal": [
+          3.69
+        ],
+        "Parker": [
+          6.875
+        ],
+        "Quinebaug": [
+          14.714
+        ],
+        "Shawsheen": [
+          7.601
+        ],
+        "South Coastal": [
+          3.632
+        ],
+        "SuAsCo": [
+          10.668
+        ],
+        "Taunton": [
+          4.263
+        ],
+        "Ten Mile": [
+          7.25
+        ],
+        "Westfield": [
+          16.63
         ],
         "MA": [
           11.569
@@ -1745,6 +4397,84 @@
         "25027": [
           8.964
         ],
+        "Blackstone": [
+          3.669
+        ],
+        "Boston Harbor": [
+          0.095
+        ],
+        "Buzzards Bay": [
+          0
+        ],
+        "Cape Cod": [
+          0
+        ],
+        "Charles": [
+          1.263
+        ],
+        "Chicopee": [
+          9.634
+        ],
+        "Connecticut": [
+          7.358
+        ],
+        "Deerfield": [
+          12.033
+        ],
+        "Farmington": [
+          11.299
+        ],
+        "French": [
+          9.114
+        ],
+        "Housatonic": [
+          12.3
+        ],
+        "Hudson": [
+          15.642
+        ],
+        "Ipswich": [
+          0.666
+        ],
+        "Merrimack": [
+          2.778
+        ],
+        "Millers": [
+          20.666
+        ],
+        "Narragansett": [
+          0
+        ],
+        "Nashua": [
+          6.098
+        ],
+        "North Coastal": [
+          0.153
+        ],
+        "Parker": [
+          1.625
+        ],
+        "Quinebaug": [
+          9.214
+        ],
+        "Shawsheen": [
+          0.399
+        ],
+        "South Coastal": [
+          0
+        ],
+        "SuAsCo": [
+          1.767
+        ],
+        "Taunton": [
+          0.053
+        ],
+        "Ten Mile": [
+          0.5
+        ],
+        "Westfield": [
+          9.784
+        ],
         "MA": [
           5.714
         ]
@@ -1794,6 +4524,84 @@
         ],
         "25027": [
           6.31
+        ],
+        "Blackstone": [
+          1.667
+        ],
+        "Boston Harbor": [
+          0.905
+        ],
+        "Buzzards Bay": [
+          0.296
+        ],
+        "Cape Cod": [
+          0.5
+        ],
+        "Charles": [
+          1.479
+        ],
+        "Chicopee": [
+          7.161
+        ],
+        "Connecticut": [
+          7.94
+        ],
+        "Deerfield": [
+          9.847
+        ],
+        "Farmington": [
+          9.599
+        ],
+        "French": [
+          5.335
+        ],
+        "Housatonic": [
+          12.831
+        ],
+        "Hudson": [
+          13.291
+        ],
+        "Ipswich": [
+          1
+        ],
+        "Merrimack": [
+          2.667
+        ],
+        "Millers": [
+          18.046
+        ],
+        "Narragansett": [
+          0.167
+        ],
+        "Nashua": [
+          5.831
+        ],
+        "North Coastal": [
+          1.077
+        ],
+        "Parker": [
+          1.25
+        ],
+        "Quinebaug": [
+          2.714
+        ],
+        "Shawsheen": [
+          1
+        ],
+        "South Coastal": [
+          0.527
+        ],
+        "SuAsCo": [
+          1.867
+        ],
+        "Taunton": [
+          0.29
+        ],
+        "Ten Mile": [
+          1
+        ],
+        "Westfield": [
+          7.339
         ],
         "MA": [
           4.945
@@ -1845,6 +4653,84 @@
         "25027": [
           9.423
         ],
+        "Blackstone": [
+          5.835
+        ],
+        "Boston Harbor": [
+          2.857
+        ],
+        "Buzzards Bay": [
+          1.85
+        ],
+        "Cape Cod": [
+          0.715
+        ],
+        "Charles": [
+          4.741
+        ],
+        "Chicopee": [
+          11.279
+        ],
+        "Connecticut": [
+          10.627
+        ],
+        "Deerfield": [
+          12.848
+        ],
+        "Farmington": [
+          9.5
+        ],
+        "French": [
+          8.668
+        ],
+        "Housatonic": [
+          10.942
+        ],
+        "Hudson": [
+          14.214
+        ],
+        "Ipswich": [
+          5.166
+        ],
+        "Merrimack": [
+          7.556
+        ],
+        "Millers": [
+          15.095
+        ],
+        "Narragansett": [
+          1.333
+        ],
+        "Nashua": [
+          8.298
+        ],
+        "North Coastal": [
+          3.306
+        ],
+        "Parker": [
+          6.25
+        ],
+        "Quinebaug": [
+          9.857
+        ],
+        "Shawsheen": [
+          6.2
+        ],
+        "South Coastal": [
+          3.159
+        ],
+        "SuAsCo": [
+          5.7
+        ],
+        "Taunton": [
+          2.316
+        ],
+        "Ten Mile": [
+          3.5
+        ],
+        "Westfield": [
+          9.419
+        ],
         "MA": [
           7.288
         ]
@@ -1894,6 +4780,84 @@
         ],
         "25027": [
           13.034
+        ],
+        "Blackstone": [
+          7.086
+        ],
+        "Boston Harbor": [
+          3
+        ],
+        "Buzzards Bay": [
+          3.665
+        ],
+        "Cape Cod": [
+          1.358
+        ],
+        "Charles": [
+          5.307
+        ],
+        "Chicopee": [
+          15.221
+        ],
+        "Connecticut": [
+          15.037
+        ],
+        "Deerfield": [
+          18.034
+        ],
+        "Farmington": [
+          18.498
+        ],
+        "French": [
+          10.891
+        ],
+        "Housatonic": [
+          20.721
+        ],
+        "Hudson": [
+          20.648
+        ],
+        "Ipswich": [
+          4.583
+        ],
+        "Merrimack": [
+          8.61
+        ],
+        "Millers": [
+          23.19
+        ],
+        "Narragansett": [
+          2.667
+        ],
+        "Nashua": [
+          11.397
+        ],
+        "North Coastal": [
+          4.383
+        ],
+        "Parker": [
+          7.25
+        ],
+        "Quinebaug": [
+          14.786
+        ],
+        "Shawsheen": [
+          6.199
+        ],
+        "South Coastal": [
+          5.318
+        ],
+        "SuAsCo": [
+          6.3
+        ],
+        "Taunton": [
+          3.764
+        ],
+        "Ten Mile": [
+          3.5
+        ],
+        "Westfield": [
+          16.392
         ],
         "MA": [
           10.623
@@ -1945,6 +4909,84 @@
         "25027": [
           5.154
         ],
+        "Blackstone": [
+          1.75
+        ],
+        "Boston Harbor": [
+          0.524
+        ],
+        "Buzzards Bay": [
+          1
+        ],
+        "Cape Cod": [
+          0.107
+        ],
+        "Charles": [
+          1.262
+        ],
+        "Chicopee": [
+          6.109
+        ],
+        "Connecticut": [
+          5.062
+        ],
+        "Deerfield": [
+          9.293
+        ],
+        "Farmington": [
+          9.599
+        ],
+        "French": [
+          3.445
+        ],
+        "Housatonic": [
+          9.495
+        ],
+        "Hudson": [
+          12.788
+        ],
+        "Ipswich": [
+          1.083
+        ],
+        "Merrimack": [
+          1.723
+        ],
+        "Millers": [
+          10.524
+        ],
+        "Narragansett": [
+          0.5
+        ],
+        "Nashua": [
+          4.165
+        ],
+        "North Coastal": [
+          1.077
+        ],
+        "Parker": [
+          0.625
+        ],
+        "Quinebaug": [
+          5.357
+        ],
+        "Shawsheen": [
+          1
+        ],
+        "South Coastal": [
+          0.949
+        ],
+        "SuAsCo": [
+          1.8
+        ],
+        "Taunton": [
+          0.947
+        ],
+        "Ten Mile": [
+          1.5
+        ],
+        "Westfield": [
+          8.47
+        ],
         "MA": [
           4.198
         ]
@@ -1994,6 +5036,84 @@
         ],
         "25027": [
           12.139
+        ],
+        "Blackstone": [
+          6.626
+        ],
+        "Boston Harbor": [
+          1.905
+        ],
+        "Buzzards Bay": [
+          1.258
+        ],
+        "Cape Cod": [
+          0
+        ],
+        "Charles": [
+          4.22
+        ],
+        "Chicopee": [
+          12.595
+        ],
+        "Connecticut": [
+          11.572
+        ],
+        "Deerfield": [
+          16.885
+        ],
+        "Farmington": [
+          13.798
+        ],
+        "French": [
+          9.334
+        ],
+        "Housatonic": [
+          16.359
+        ],
+        "Hudson": [
+          17.787
+        ],
+        "Ipswich": [
+          5.416
+        ],
+        "Merrimack": [
+          7.445
+        ],
+        "Millers": [
+          24.333
+        ],
+        "Narragansett": [
+          2.999
+        ],
+        "Nashua": [
+          11.196
+        ],
+        "North Coastal": [
+          3.998
+        ],
+        "Parker": [
+          6.375
+        ],
+        "Quinebaug": [
+          10.357
+        ],
+        "Shawsheen": [
+          5.4
+        ],
+        "South Coastal": [
+          2.053
+        ],
+        "SuAsCo": [
+          6.833
+        ],
+        "Taunton": [
+          3.763
+        ],
+        "Ten Mile": [
+          5.25
+        ],
+        "Westfield": [
+          13.625
         ],
         "MA": [
           8.967
@@ -2045,6 +5165,84 @@
         "25027": [
           3.772
         ],
+        "Blackstone": [
+          1.667
+        ],
+        "Boston Harbor": [
+          0.476
+        ],
+        "Buzzards Bay": [
+          0
+        ],
+        "Cape Cod": [
+          0.214
+        ],
+        "Charles": [
+          1.479
+        ],
+        "Chicopee": [
+          3.865
+        ],
+        "Connecticut": [
+          3.496
+        ],
+        "Deerfield": [
+          6.664
+        ],
+        "Farmington": [
+          5.2
+        ],
+        "French": [
+          2.222
+        ],
+        "Housatonic": [
+          7.858
+        ],
+        "Hudson": [
+          10.003
+        ],
+        "Ipswich": [
+          0.834
+        ],
+        "Merrimack": [
+          1.668
+        ],
+        "Millers": [
+          8.095
+        ],
+        "Narragansett": [
+          0
+        ],
+        "Nashua": [
+          3.531
+        ],
+        "North Coastal": [
+          0.384
+        ],
+        "Parker": [
+          0.125
+        ],
+        "Quinebaug": [
+          4.286
+        ],
+        "Shawsheen": [
+          2.201
+        ],
+        "South Coastal": [
+          0
+        ],
+        "SuAsCo": [
+          1.867
+        ],
+        "Taunton": [
+          0.342
+        ],
+        "Ten Mile": [
+          1.5
+        ],
+        "Westfield": [
+          5.865
+        ],
         "MA": [
           3.058
         ]
@@ -2094,6 +5292,84 @@
         ],
         "25027": [
           5.687
+        ],
+        "Blackstone": [
+          1.958
+        ],
+        "Boston Harbor": [
+          0.143
+        ],
+        "Buzzards Bay": [
+          0
+        ],
+        "Cape Cod": [
+          0
+        ],
+        "Charles": [
+          0.566
+        ],
+        "Chicopee": [
+          6.09
+        ],
+        "Connecticut": [
+          5.319
+        ],
+        "Deerfield": [
+          8.589
+        ],
+        "Farmington": [
+          8.299
+        ],
+        "French": [
+          3.889
+        ],
+        "Housatonic": [
+          7.888
+        ],
+        "Hudson": [
+          8.573
+        ],
+        "Ipswich": [
+          0.917
+        ],
+        "Merrimack": [
+          1.556
+        ],
+        "Millers": [
+          15.141
+        ],
+        "Narragansett": [
+          0
+        ],
+        "Nashua": [
+          4.965
+        ],
+        "North Coastal": [
+          0.615
+        ],
+        "Parker": [
+          0.5
+        ],
+        "Quinebaug": [
+          5.071
+        ],
+        "Shawsheen": [
+          0.601
+        ],
+        "South Coastal": [
+          0
+        ],
+        "SuAsCo": [
+          1.667
+        ],
+        "Taunton": [
+          0.026
+        ],
+        "Ten Mile": [
+          0.25
+        ],
+        "Westfield": [
+          6.68
         ],
         "MA": [
           3.834
@@ -2145,6 +5421,84 @@
         "25027": [
           5.625
         ],
+        "Blackstone": [
+          1.917
+        ],
+        "Boston Harbor": [
+          1.095
+        ],
+        "Buzzards Bay": [
+          1.148
+        ],
+        "Cape Cod": [
+          0.071
+        ],
+        "Charles": [
+          2.566
+        ],
+        "Chicopee": [
+          6.732
+        ],
+        "Connecticut": [
+          7.84
+        ],
+        "Deerfield": [
+          13.663
+        ],
+        "Farmington": [
+          12.1
+        ],
+        "French": [
+          2.778
+        ],
+        "Housatonic": [
+          14.942
+        ],
+        "Hudson": [
+          17.433
+        ],
+        "Ipswich": [
+          2.833
+        ],
+        "Merrimack": [
+          6.332
+        ],
+        "Millers": [
+          13.428
+        ],
+        "Narragansett": [
+          1
+        ],
+        "Nashua": [
+          6.428
+        ],
+        "North Coastal": [
+          1.614
+        ],
+        "Parker": [
+          5.75
+        ],
+        "Quinebaug": [
+          4.785
+        ],
+        "Shawsheen": [
+          3.6
+        ],
+        "South Coastal": [
+          0.579
+        ],
+        "SuAsCo": [
+          3.533
+        ],
+        "Taunton": [
+          1.131
+        ],
+        "Ten Mile": [
+          1.75
+        ],
+        "Westfield": [
+          10.625
+        ],
         "MA": [
           5.925
         ]
@@ -2194,6 +5548,84 @@
         ],
         "25027": [
           21.533
+        ],
+        "Blackstone": [
+          13.085
+        ],
+        "Boston Harbor": [
+          7.095
+        ],
+        "Buzzards Bay": [
+          3.001
+        ],
+        "Cape Cod": [
+          1.679
+        ],
+        "Charles": [
+          10.525
+        ],
+        "Chicopee": [
+          26.145
+        ],
+        "Connecticut": [
+          28.292
+        ],
+        "Deerfield": [
+          33.923
+        ],
+        "Farmington": [
+          31.499
+        ],
+        "French": [
+          19.557
+        ],
+        "Housatonic": [
+          32.5
+        ],
+        "Hudson": [
+          33.362
+        ],
+        "Ipswich": [
+          11.667
+        ],
+        "Merrimack": [
+          16.947
+        ],
+        "Millers": [
+          32.047
+        ],
+        "Narragansett": [
+          4.499
+        ],
+        "Nashua": [
+          22.195
+        ],
+        "North Coastal": [
+          9.614
+        ],
+        "Parker": [
+          13.5
+        ],
+        "Quinebaug": [
+          23.214
+        ],
+        "Shawsheen": [
+          13.401
+        ],
+        "South Coastal": [
+          2.998
+        ],
+        "SuAsCo": [
+          15.633
+        ],
+        "Taunton": [
+          5.946
+        ],
+        "Ten Mile": [
+          8.499
+        ],
+        "Westfield": [
+          29.018
         ],
         "MA": [
           18.406
@@ -2245,6 +5677,84 @@
         "25027": [
           4.631
         ],
+        "Blackstone": [
+          2.667
+        ],
+        "Boston Harbor": [
+          1.619
+        ],
+        "Buzzards Bay": [
+          0.593
+        ],
+        "Cape Cod": [
+          0
+        ],
+        "Charles": [
+          2.74
+        ],
+        "Chicopee": [
+          6.018
+        ],
+        "Connecticut": [
+          6.63
+        ],
+        "Deerfield": [
+          9.146
+        ],
+        "Farmington": [
+          8.499
+        ],
+        "French": [
+          3.668
+        ],
+        "Housatonic": [
+          8.554
+        ],
+        "Hudson": [
+          9.858
+        ],
+        "Ipswich": [
+          1.917
+        ],
+        "Merrimack": [
+          3.612
+        ],
+        "Millers": [
+          7
+        ],
+        "Narragansett": [
+          0.333
+        ],
+        "Nashua": [
+          4.699
+        ],
+        "North Coastal": [
+          1.461
+        ],
+        "Parker": [
+          2.75
+        ],
+        "Quinebaug": [
+          5.428
+        ],
+        "Shawsheen": [
+          2.2
+        ],
+        "South Coastal": [
+          0.526
+        ],
+        "SuAsCo": [
+          2.933
+        ],
+        "Taunton": [
+          0.71
+        ],
+        "Ten Mile": [
+          1.5
+        ],
+        "Westfield": [
+          7.996
+        ],
         "MA": [
           4.301
         ]
@@ -2294,6 +5804,84 @@
         ],
         "25027": [
           12.569
+        ],
+        "Blackstone": [
+          7.001
+        ],
+        "Boston Harbor": [
+          3.144
+        ],
+        "Buzzards Bay": [
+          1.853
+        ],
+        "Cape Cod": [
+          0.178
+        ],
+        "Charles": [
+          4.785
+        ],
+        "Chicopee": [
+          15.221
+        ],
+        "Connecticut": [
+          16.815
+        ],
+        "Deerfield": [
+          20.073
+        ],
+        "Farmington": [
+          17.799
+        ],
+        "French": [
+          9.668
+        ],
+        "Housatonic": [
+          20.528
+        ],
+        "Hudson": [
+          18.291
+        ],
+        "Ipswich": [
+          6.167
+        ],
+        "Merrimack": [
+          7.556
+        ],
+        "Millers": [
+          23.761
+        ],
+        "Narragansett": [
+          2.499
+        ],
+        "Nashua": [
+          12.127
+        ],
+        "North Coastal": [
+          4.152
+        ],
+        "Parker": [
+          6
+        ],
+        "Quinebaug": [
+          14.857
+        ],
+        "Shawsheen": [
+          6.199
+        ],
+        "South Coastal": [
+          2.42
+        ],
+        "SuAsCo": [
+          6.2
+        ],
+        "Taunton": [
+          3.919
+        ],
+        "Ten Mile": [
+          6
+        ],
+        "Westfield": [
+          18.569
         ],
         "MA": [
           10.67
@@ -2345,6 +5933,84 @@
         "25027": [
           2.757
         ],
+        "Blackstone": [
+          2.042
+        ],
+        "Boston Harbor": [
+          1.285
+        ],
+        "Buzzards Bay": [
+          0.815
+        ],
+        "Cape Cod": [
+          0
+        ],
+        "Charles": [
+          1.739
+        ],
+        "Chicopee": [
+          3.037
+        ],
+        "Connecticut": [
+          3.976
+        ],
+        "Deerfield": [
+          6.221
+        ],
+        "Farmington": [
+          4.9
+        ],
+        "French": [
+          2.111
+        ],
+        "Housatonic": [
+          5.138
+        ],
+        "Hudson": [
+          6.214
+        ],
+        "Ipswich": [
+          2
+        ],
+        "Merrimack": [
+          2.723
+        ],
+        "Millers": [
+          4.905
+        ],
+        "Narragansett": [
+          0.333
+        ],
+        "Nashua": [
+          3.099
+        ],
+        "North Coastal": [
+          1.615
+        ],
+        "Parker": [
+          2
+        ],
+        "Quinebaug": [
+          2.857
+        ],
+        "Shawsheen": [
+          2
+        ],
+        "South Coastal": [
+          0.842
+        ],
+        "SuAsCo": [
+          2.267
+        ],
+        "Taunton": [
+          1.079
+        ],
+        "Ten Mile": [
+          1.25
+        ],
+        "Westfield": [
+          4.709
+        ],
         "MA": [
           2.801
         ]
@@ -2394,6 +6060,84 @@
         ],
         "25027": [
           1.059
+        ],
+        "Blackstone": [
+          0.042
+        ],
+        "Boston Harbor": [
+          0.047
+        ],
+        "Buzzards Bay": [
+          0
+        ],
+        "Cape Cod": [
+          0
+        ],
+        "Charles": [
+          0.087
+        ],
+        "Chicopee": [
+          1.036
+        ],
+        "Connecticut": [
+          1.258
+        ],
+        "Deerfield": [
+          2.999
+        ],
+        "Farmington": [
+          1
+        ],
+        "French": [
+          0.111
+        ],
+        "Housatonic": [
+          2.082
+        ],
+        "Hudson": [
+          3.072
+        ],
+        "Ipswich": [
+          0
+        ],
+        "Merrimack": [
+          0.445
+        ],
+        "Millers": [
+          3.666
+        ],
+        "Narragansett": [
+          0
+        ],
+        "Nashua": [
+          1.199
+        ],
+        "North Coastal": [
+          0
+        ],
+        "Parker": [
+          0
+        ],
+        "Quinebaug": [
+          0
+        ],
+        "Shawsheen": [
+          0.8
+        ],
+        "South Coastal": [
+          0
+        ],
+        "SuAsCo": [
+          0.433
+        ],
+        "Taunton": [
+          0
+        ],
+        "Ten Mile": [
+          0
+        ],
+        "Westfield": [
+          1.997
         ],
         "MA": [
           0.899
@@ -2445,6 +6189,84 @@
         "25027": [
           4.357
         ],
+        "Blackstone": [
+          1
+        ],
+        "Boston Harbor": [
+          0.762
+        ],
+        "Buzzards Bay": [
+          0
+        ],
+        "Cape Cod": [
+          0
+        ],
+        "Charles": [
+          1.218
+        ],
+        "Chicopee": [
+          6.24
+        ],
+        "Connecticut": [
+          9.163
+        ],
+        "Deerfield": [
+          12.37
+        ],
+        "Farmington": [
+          5.899
+        ],
+        "French": [
+          1.222
+        ],
+        "Housatonic": [
+          7.497
+        ],
+        "Hudson": [
+          8.574
+        ],
+        "Ipswich": [
+          1.25
+        ],
+        "Merrimack": [
+          2.612
+        ],
+        "Millers": [
+          12.333
+        ],
+        "Narragansett": [
+          0.166
+        ],
+        "Nashua": [
+          4.63
+        ],
+        "North Coastal": [
+          0.384
+        ],
+        "Parker": [
+          1.75
+        ],
+        "Quinebaug": [
+          2.929
+        ],
+        "Shawsheen": [
+          1.8
+        ],
+        "South Coastal": [
+          0.105
+        ],
+        "SuAsCo": [
+          2.132
+        ],
+        "Taunton": [
+          0.736
+        ],
+        "Ten Mile": [
+          0.75
+        ],
+        "Westfield": [
+          8.464
+        ],
         "MA": [
           4.299
         ]
@@ -2494,6 +6316,84 @@
         ],
         "25027": [
           9.564
+        ],
+        "Blackstone": [
+          6.709
+        ],
+        "Boston Harbor": [
+          3.907
+        ],
+        "Buzzards Bay": [
+          0.556
+        ],
+        "Cape Cod": [
+          0
+        ],
+        "Charles": [
+          6.654
+        ],
+        "Chicopee": [
+          10.393
+        ],
+        "Connecticut": [
+          12.752
+        ],
+        "Deerfield": [
+          18.073
+        ],
+        "Farmington": [
+          12.399
+        ],
+        "French": [
+          7.111
+        ],
+        "Housatonic": [
+          15.108
+        ],
+        "Hudson": [
+          14.217
+        ],
+        "Ipswich": [
+          4.25
+        ],
+        "Merrimack": [
+          7.224
+        ],
+        "Millers": [
+          16.142
+        ],
+        "Narragansett": [
+          1.333
+        ],
+        "Nashua": [
+          10.197
+        ],
+        "North Coastal": [
+          2.613
+        ],
+        "Parker": [
+          5.75
+        ],
+        "Quinebaug": [
+          9.428
+        ],
+        "Shawsheen": [
+          5.2
+        ],
+        "South Coastal": [
+          0.946
+        ],
+        "SuAsCo": [
+          8.933
+        ],
+        "Taunton": [
+          2.577
+        ],
+        "Ten Mile": [
+          5.998
+        ],
+        "Westfield": [
+          13.542
         ],
         "MA": [
           8.381
@@ -2545,6 +6445,84 @@
         "25027": [
           2.734
         ],
+        "Blackstone": [
+          0
+        ],
+        "Boston Harbor": [
+          0
+        ],
+        "Buzzards Bay": [
+          0
+        ],
+        "Cape Cod": [
+          0
+        ],
+        "Charles": [
+          0
+        ],
+        "Chicopee": [
+          4.166
+        ],
+        "Connecticut": [
+          6.906
+        ],
+        "Deerfield": [
+          8.852
+        ],
+        "Farmington": [
+          1.499
+        ],
+        "French": [
+          0
+        ],
+        "Housatonic": [
+          2.026
+        ],
+        "Hudson": [
+          3.719
+        ],
+        "Ipswich": [
+          0
+        ],
+        "Merrimack": [
+          0.61
+        ],
+        "Millers": [
+          10.903
+        ],
+        "Narragansett": [
+          0
+        ],
+        "Nashua": [
+          1.831
+        ],
+        "North Coastal": [
+          0
+        ],
+        "Parker": [
+          0.625
+        ],
+        "Quinebaug": [
+          4.643
+        ],
+        "Shawsheen": [
+          0
+        ],
+        "South Coastal": [
+          0
+        ],
+        "SuAsCo": [
+          0
+        ],
+        "Taunton": [
+          0.079
+        ],
+        "Ten Mile": [
+          0
+        ],
+        "Westfield": [
+          3.834
+        ],
         "MA": [
           2.416
         ]
@@ -2594,6 +6572,84 @@
         ],
         "25027": [
           0
+        ],
+        "Blackstone": [
+          0
+        ],
+        "Boston Harbor": [
+          0
+        ],
+        "Buzzards Bay": [
+          0
+        ],
+        "Cape Cod": [
+          0
+        ],
+        "Charles": [
+          0
+        ],
+        "Chicopee": [
+          0
+        ],
+        "Connecticut": [
+          0
+        ],
+        "Deerfield": [
+          0.037
+        ],
+        "Farmington": [
+          0
+        ],
+        "French": [
+          0
+        ],
+        "Housatonic": [
+          0.055
+        ],
+        "Hudson": [
+          0.429
+        ],
+        "Ipswich": [
+          0
+        ],
+        "Merrimack": [
+          0
+        ],
+        "Millers": [
+          0
+        ],
+        "Narragansett": [
+          0
+        ],
+        "Nashua": [
+          0
+        ],
+        "North Coastal": [
+          0
+        ],
+        "Parker": [
+          0
+        ],
+        "Quinebaug": [
+          0
+        ],
+        "Shawsheen": [
+          0
+        ],
+        "South Coastal": [
+          0
+        ],
+        "SuAsCo": [
+          0
+        ],
+        "Taunton": [
+          0
+        ],
+        "Ten Mile": [
+          0
+        ],
+        "Westfield": [
+          0.052
         ],
         "MA": [
           0.018
@@ -2645,6 +6701,84 @@
         "25027": [
           17.498
         ],
+        "Blackstone": [
+          8
+        ],
+        "Boston Harbor": [
+          4.857
+        ],
+        "Buzzards Bay": [
+          1.555
+        ],
+        "Cape Cod": [
+          0.286
+        ],
+        "Charles": [
+          7.393
+        ],
+        "Chicopee": [
+          22.329
+        ],
+        "Connecticut": [
+          20.768
+        ],
+        "Deerfield": [
+          25.888
+        ],
+        "Farmington": [
+          15.398
+        ],
+        "French": [
+          12.112
+        ],
+        "Housatonic": [
+          21.133
+        ],
+        "Hudson": [
+          22.434
+        ],
+        "Ipswich": [
+          7.25
+        ],
+        "Merrimack": [
+          11.279
+        ],
+        "Millers": [
+          29.619
+        ],
+        "Narragansett": [
+          2.166
+        ],
+        "Nashua": [
+          18.561
+        ],
+        "North Coastal": [
+          6.228
+        ],
+        "Parker": [
+          9
+        ],
+        "Quinebaug": [
+          13.357
+        ],
+        "Shawsheen": [
+          7.4
+        ],
+        "South Coastal": [
+          2.314
+        ],
+        "SuAsCo": [
+          9.066
+        ],
+        "Taunton": [
+          3.34
+        ],
+        "Ten Mile": [
+          5.999
+        ],
+        "Westfield": [
+          19.669
+        ],
         "MA": [
           13.089
         ]
@@ -2695,6 +6829,84 @@
         "25027": [
           12.705
         ],
+        "Blackstone": [
+          8.709
+        ],
+        "Boston Harbor": [
+          7.382
+        ],
+        "Buzzards Bay": [
+          5.444
+        ],
+        "Cape Cod": [
+          2.251
+        ],
+        "Charles": [
+          8.392
+        ],
+        "Chicopee": [
+          14.241
+        ],
+        "Connecticut": [
+          14.211
+        ],
+        "Deerfield": [
+          16.37
+        ],
+        "Farmington": [
+          12.4
+        ],
+        "French": [
+          9.333
+        ],
+        "Housatonic": [
+          13.303
+        ],
+        "Hudson": [
+          15.003
+        ],
+        "Ipswich": [
+          7.833
+        ],
+        "Merrimack": [
+          9.779
+        ],
+        "Millers": [
+          20.523
+        ],
+        "Narragansett": [
+          5.5
+        ],
+        "Nashua": [
+          12.364
+        ],
+        "North Coastal": [
+          7.999
+        ],
+        "Parker": [
+          8.625
+        ],
+        "Quinebaug": [
+          12.428
+        ],
+        "Shawsheen": [
+          8
+        ],
+        "South Coastal": [
+          5.42
+        ],
+        "SuAsCo": [
+          9.1
+        ],
+        "Taunton": [
+          6.421
+        ],
+        "Ten Mile": [
+          6.5
+        ],
+        "Westfield": [
+          14.283
+        ],
         "MA": [
           10.532
         ]
@@ -2744,6 +6956,84 @@
         ],
         "25027": [
           14.38
+        ],
+        "Blackstone": [
+          6.625
+        ],
+        "Boston Harbor": [
+          4.524
+        ],
+        "Buzzards Bay": [
+          2.963
+        ],
+        "Cape Cod": [
+          0.536
+        ],
+        "Charles": [
+          5.566
+        ],
+        "Chicopee": [
+          17.843
+        ],
+        "Connecticut": [
+          18.164
+        ],
+        "Deerfield": [
+          22.776
+        ],
+        "Farmington": [
+          15.499
+        ],
+        "French": [
+          12.002
+        ],
+        "Housatonic": [
+          18.636
+        ],
+        "Hudson": [
+          19.359
+        ],
+        "Ipswich": [
+          7.167
+        ],
+        "Merrimack": [
+          9.557
+        ],
+        "Millers": [
+          25.618
+        ],
+        "Narragansett": [
+          3.333
+        ],
+        "Nashua": [
+          13.894
+        ],
+        "North Coastal": [
+          5.537
+        ],
+        "Parker": [
+          7
+        ],
+        "Quinebaug": [
+          16.357
+        ],
+        "Shawsheen": [
+          6.799
+        ],
+        "South Coastal": [
+          2.106
+        ],
+        "SuAsCo": [
+          7.866
+        ],
+        "Taunton": [
+          3.631
+        ],
+        "Ten Mile": [
+          4.75
+        ],
+        "Westfield": [
+          16.911
         ],
         "MA": [
           11.482
