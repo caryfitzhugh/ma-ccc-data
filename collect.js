@@ -114,17 +114,17 @@ const datagrapher_files = () => {
                   ['tn32', 'below_temp_thresholds', 'lt32'],
                   ['pcpn_1', 'precip_events', 'gt1in'],
                   ['pcpn_2', 'precip_events', 'gt2in'],
-                  ['pcpn_4', 'precip_events', 'gt4in']
+                  ['pcpn_4', 'precip_events', 'gt4in'],
+                  ['condrydays', 'consecutive_dry_days', 'cdd']
                 ];
-  metrics.forEach((metric) => {
-    seasons.forEach((season) => {
-      metrics.forEach((metric) => {
-        all_files.push([1, `observed_${metric[0]}_${season[0]}`,
-                          metric[1], ['obs'], season[1], metric[2]]);
 
-        all_files.push([5, `projected_${metric[0]}_${season[0]}`,
-                          metric[1], ['min','med','max'], season[1], metric[2]]);
-      });
+  seasons.forEach((season) => {
+    metrics.forEach((metric) => {
+      all_files.push([1, `observed_${metric[0]}_${season[0]}`,
+                        metric[1], ['obs'], season[1], metric[2]]);
+
+      all_files.push([5, `projected_${metric[0]}_${season[0]}`,
+                        metric[1], ['min','med','max'], season[1], metric[2]]);
     });
   });
 
